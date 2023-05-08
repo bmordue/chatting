@@ -1,6 +1,16 @@
 {
+  "scripts": {
+    "prestart": "tsc",
+    "start": "node built/app.js"
+  },
+  "type": "module",
   "devDependencies": {
     "@types/node": "^20.1.0",
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.1",
+    "openai": "^3.2.1"
   }
 }
