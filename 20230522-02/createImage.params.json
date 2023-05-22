@@ -1,0 +1,6 @@
+{
+  "prompt": "The headless horseman from sleepy hollow, in the style of a childrens book illustrator. Bright colours, simple shapes, acrylic",
+  "n": 10,
+  "size": "256x256",
+  "response_format": "b64_json"
+}

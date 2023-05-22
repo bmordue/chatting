@@ -1,9 +1,9 @@
 import { config } from "dotenv";
-import { createWriteStream } from "fs";
-import fetch from "node-fetch";
+import { createWriteStream, readFileSync, writeFileSync } from "fs";
 config();
 
-import { Configuration, OpenAIApi } from "openai";
+import { Configuration, CreateImageRequest, ImagesResponse, ImagesResponseDataInner, OpenAIApi } from "openai";
+import { argv } from "process";
 import { Duplex } from "stream";
 const configuration = new Configuration({
   apiKey: process.env.OPENAI_API_KEY,
@@ -16,29 +16,15 @@ async function main() {
   //   const messagesArray: ChatCompletionResponseMessage[] = JSON.parse(
   //     readFileSync(messagesFilename, "utf-8")
   //   );
-  const response = await openai.createImage({
-    prompt:
-      "rolling hills and valleys receding into the distance. A white toward in the hazy background. Dusk light. Very artistic.",
-    n: 1,
-    size: "256x256",
-  });
-  //   console.log(JSON.stringify(response));
+  const paramsFile = argv[2];
+  const params = JSON.parse(readFileSync(paramsFile, "utf-8"));
+  const response = await openai.createImage(params);
+
+  // console.log(JSON.stringify(response.data));
   const created = response.data.created;
-  const urls = response.data.data.map((d) => d.url);
-  //  await Promise.all(
-  urls.forEach(async (url, i) => {
-    fetch(url!)
-      .then((res) => res.body)
-      .then((data) => {
-        //const stream = data as ReadableStream;
-        const destination = createWriteStream(`${created}-${i}`);
-        const stream = new Duplex();
-        stream.push(data);
-        stream.push(null);
-        stream.pipe(destination);
-      });
+  response.data.data.forEach((d: ImagesResponseDataInner, i) => {
+    writeFileSync(`${created}-${i}.png`, Buffer.from(d.b64_json!, "base64"));
   });
-  //  );
 }
 
 main();
