@@ -1,4 +1,16 @@
-# barchart Serve barchart.html and demographics.json on localhost, eg by running `python -m http.server` in the project directory.
+# chat
+
+Barebones API wrapper for reading a prompt from JSON and writing back the assitant response into the same JSON file, to build up a conversation with context.
+
+Put a prompt in the 'content' property of a message with role: user, then run `node built/chat/app.js`. Reload JSON, repeat...
+
+Use as a template.
+
+# demographics
+
+Used the `chat/app.ts` template to write a really bad demographics model. The file `messages.json` is the full conversation (user prompts and assistant responses).
+
+Serve barchart.html and demographics.json on localhost, eg by running `python -m http.server` in the project directory.
 
 Then go to http://localhost:8000/barchart.html
 
@@ -10,6 +22,8 @@ Then go to http://localhost:8000/barchart.html
 - model number of people requiring elder, # providing, length of time to train new practitioners, training capacity, cost to grow training capacity etc.
 
 # pictures
+
+Playing with dall-e for text to image instead of LLM chat models.
 
 Example usage.
 
@@ -30,7 +44,7 @@ Create prompt parameters in `20230522-02/createImage.params.json`, eg:
 
 Run the script:
 
-`node built/pictures.js 20230522-02/createImage.params.json`
+`node built/pictures/pictures.js 20230522-02/createImage.params.json`
 
 PNGs created at project root, move them to "tidy" dir. :-)
 
