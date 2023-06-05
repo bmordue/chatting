@@ -19,7 +19,9 @@ async function sanityCheck() {
 }
 
 async function main() {
-  const messagesFilename = "messages.json";
+  // openai.listModels().then((resp) => resp.data).then(console.log);
+
+  const messagesFilename = "chat/messages.json";
   const messagesArray: ChatCompletionResponseMessage[] = JSON.parse(
     readFileSync(messagesFilename, "utf-8")
   );
