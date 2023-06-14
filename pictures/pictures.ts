@@ -1,10 +1,9 @@
 import { config } from "dotenv";
-import { createWriteStream, readFileSync, writeFileSync } from "fs";
+import { readFileSync, writeFileSync } from "fs";
 config();
 
-import { Configuration, CreateImageRequest, ImagesResponse, ImagesResponseDataInner, OpenAIApi } from "openai";
+import { Configuration, ImagesResponseDataInner, OpenAIApi } from "openai";
 import { argv } from "process";
-import { Duplex } from "stream";
 const configuration = new Configuration({
   apiKey: process.env.OPENAI_API_KEY,
 });
