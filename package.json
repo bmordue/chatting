@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "prestart": "tsc && cp chat/messages.json built/chat/",
+    "prestart": "tsc",
     "start": "node built/chat/app.js"
   },
   "type": "module",
