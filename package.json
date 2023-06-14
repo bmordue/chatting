@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "prestart": "tsc",
-    "start": "node built/app.js"
+    "prestart": "tsc && cp chat/messages.json built/chat/",
+    "start": "node built/chat/app.js"
   },
   "type": "module",
   "devDependencies": {
