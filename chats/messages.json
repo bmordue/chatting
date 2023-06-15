@@ -1,1 +1,10 @@
-[{"role":"user","content":""},{"role":"assistant","content":"I'm sorry, I cannot complete this task without more information on what is required. Could you please provide more details or a specific task to be completed?"}]
+[
+    {
+        "role": "user",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "I'm sorry, I cannot complete this task without more information on what is required. Could you please provide more details or a specific task to be completed?"
+    }
+]
