@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7RcGVUl2R1XkfGjbieJeexVx6Nmdv",
+    "object": "chat.completion",
+    "created": 1686816303,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 3647,
+        "completion_tokens": 36,
+        "total_tokens": 3683
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "As a language model AI, I do not have personal beliefs, ideas, or values. However, I am programmed to provide unbiased and accurate responses to the best of my abilities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

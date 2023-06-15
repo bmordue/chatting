@@ -43,7 +43,8 @@ async function main() {
       const messagesArray: ChatCompletionResponseMessage[] = JSON.parse(readFileSync(filepath, "utf-8"));
 
       if (messagesArray[messagesArray.length - 1].role !== 'user') {
-        console.log(`ignoring ${file}: no new prompt`)
+        console.log(`ignoring ${file}: no new prompt`);
+        return;
       }
 
       console.log(`continuing the conversation in ${file}`);
