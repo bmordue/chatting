@@ -20,7 +20,9 @@ async function sanityCheck() {
 }
 
 async function main() {
-  // openai.listModels().then((resp) => resp.data).then(console.log);
+  openai.listModels()
+    .then((resp) => resp.data)
+    .then((data) => writeFileSync("models.json", JSON.stringify(data)));
 
   const chatDir = "chats/";
 
@@ -60,6 +62,9 @@ async function main() {
 
         messagesArray.push(completion.data.choices[0].message!);
         writeFileSync(join(chatDir, file), JSON.stringify(messagesArray));
+        if (completion.data.choices.length > 1) {
+          console.log("unusual: several completion choices provided!");
+        }
         writeFileSync(join(chatDir, file.replace(".json", ".answers.json")), JSON.stringify(completion.data));
       } catch (e) {
         console.error(`${file}: failed to complete chat`);
