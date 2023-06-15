@@ -1,6 +1,8 @@
 import { config } from "dotenv";
 import { readFileSync, readdir, writeFileSync } from "fs";
 import { join } from "path";
+import { inspect } from "util";
+
 config();
 
 import {
@@ -14,15 +16,10 @@ const configuration = new Configuration({
 
 const openai = new OpenAIApi(configuration);
 
-async function sanityCheck() {
-  const response = await openai.listEngines();
-  console.log(JSON.stringify(response.data));
-}
-
 async function main() {
   openai.listModels()
     .then((resp) => resp.data)
-    .then((data) => writeFileSync("models.json", JSON.stringify(data)));
+    .then((data) => writeFileSync("models.json", inspect(data)));
 
   const chatDir = "chats/";
 
@@ -57,7 +54,7 @@ async function main() {
       console.log(`continuing the conversation in ${file}`);
       // read the file and parse it as JSON to get an array of ChatCompletionResponseMessage
       try {
-        const completion = await openai.createChatCompletion({ model: "gpt-3.5-turbo", messages: messagesArray });
+        const completion = await openai.createChatCompletion({ model: "gpt-3.5-turbo-0613", messages: messagesArray });
         const choices = completion.data.choices;
 
         messagesArray.push(completion.data.choices[0].message!);
@@ -65,7 +62,7 @@ async function main() {
         if (completion.data.choices.length > 1) {
           console.log("unusual: several completion choices provided!");
         }
-        writeFileSync(join(chatDir, file.replace(".json", ".answers.json")), JSON.stringify(completion.data));
+        // writeFileSync(join(chatDir, file.replace(".json", ".answers.json")), JSON.stringify(completion.data));
       } catch (e) {
         console.error(`${file}: failed to complete chat`);
       }
