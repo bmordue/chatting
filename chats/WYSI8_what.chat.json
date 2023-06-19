@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "what is  WYSIWYG Carto editor?"
+    },
+    {
+        "role": "assistant",
+        "content": "WYSIWYG Carto editor (What You See Is What You Get Carto editor) is a graphical user interface (GUI) tool that allows users to create and edit maps without the need for coding or technical knowledge. It provides a visual representation of the map, where users can interactively design and customize various elements such as layers, styles, labels, and legends. The changes made in the editor are immediately reflected in the output, giving users a true representation of how the map will look like in the final version. This makes the map creation process more intuitive and user-friendly, as users can see the exact visual representation of their changes in real-time."
+    }
+]
