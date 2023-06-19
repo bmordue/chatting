@@ -1,0 +1,220 @@
+ MOOC: intro to rocket science
+ MOOC: intro to the private space industry 
+ semacode jewellery
+ Amazon wishlist -> luzme
+ World history wall chart app
+ Railway-building board game
+ \"train\" with something like MapSwipe
+ \"RateMyTaste\": aggregate reviews/stars for my music (films, books) vs some 'authority'
+ mobile CSS for tasks.hotosm.org
+ Books: designing (click-fit) 3d-printed models; 3d-printing for mould-making
+ RC book outline (others on Kindle?)
+ python (flask? pyramid?) web app
+ construct timelines from wikipedia dates/semantic data?
+ how to say 'hello' website (map)
+ blog post: how to recover neo4j db from transaction log
+ send retry loop details to statsd; use that real-world data to tune the retry loop parameters
+ hotosm: change task style when at 100%
+ \"Love Heart\" buttons
+ do a slide share talk
+ Baby name recommendations based on census data (\"if you like that...\")
+ python caldav
+ printable HTTP cheatsheet
+ read picasa db
+ chrome extension: add contact directly from search results or maps
+ amazon.co.uk firefox search plugin
+ 'octopus' jumper
+ Hymans balcony time lapse!
+ 'open' comments - server + browser extension to Speedwell allow comments on any page
+ Tiki wood printing blocks
+ Tiki stacking blocks
+ QGIS autoTrace
+ Recipes through space and time
+ Liquid template to grab first few results of Google images search
+ timeline viz tool for logs
+ free instafetch android
+ Jenkins plugin: report 'job congestion'
+ CNC \"lathe\"
+ solar-water-heating tiles
+ annotated Beeton (eg as wiki)
+ \"Tree\" wooden multi candle holder
+ Greasemonkey script or browser extension to create task list (eg Evernote
+ hotosm: better RESTful routes for /jobs/all
+ Android: backup to aws 
+ Android: 365Pubs: pick a different pub from TheList.co.uk every day
+ Android: Look up recent unknown callers automatically
+ chairs/furniture with animal features
+ game server scenario creation/exchange
+ PD eg Newton on Kindle?? publish through eg github
+ WYSIWYG Carto editor
+ Display storage cabinet for beers
+ 3d printed gear systems for eg elastic band driven train (standard guages??)
+ cute cthulhu bitmap art
+ Rhythm from double pendulum
+ Edinburgh wimmelbuch
+ Alexa skills
+ Kindle ebooks of card games
+ Baikal admin interface: show URLs
+ Bridge zooniverse to pybossa
+ add My Places from Google Maps to list of contacts in People
+ arXiv <--> MNR abstracts \"reverse lookup\"
+ Acrylic on board \"flash cards\"?
+ RSS for tasks.hotosm.org
+ Start Cafepress/Etsy stores for \"wacky ideas\" and Muse ideas
+ Japanese scheduled tour guides
+ (office) desk with built-in space for growing microgreens
+ Git full history diff view
+ iOS client for tt-rss
+ Link from mapswipe to hot tm2
+ Chrome extension: add instapaper button to feedly
+ Tiki candle holder
+ \"device area network\" -- wireless comms for extra-large cnc
+ localize affiliate site
+ Electron
+ send hContact microformat to google contacts (chrome extension)
+ HOT OSM TM2 improvements
+ \"choose your own adventure\"-style how-tos
+ greasemonkey: add lots of links to luzme
+ Jenkins plugin: add counts to tab header
+ Ff reader mode by default
+ KAP book on github
+ Steam wishlist to Humble
+ Use graphdb for \"progression\" lists
+ deadcodebot
+ Chores quadrant
+ next whichgreentea: quality cocoa; high end outdoors wear
+ convert jHipster schema doc to OpenAPI 3NzQw\"
+ Stock photo undersupplied themes 
+ for each starred repo
+ Scalable chair planMDM5\"
+ \"breakfast around the world\" recipe book
+ DAVDroid etc: 'Send contacts to CardDAV'
+ PS plugin: make triptych consistent \"look\"
+ semacode t-shirts (cf existing ones)
+ Pcpartpicker for drones
+ Google Search \"share\" actionNjYz\"
+ generate timelapse from public ip cams?
+ look up Land Registry records for old schoolhouse and derelict church in Castlebay
+ Grid-based paint by numbers
+ Tumblr to desktop image
+ contacts matrix
+ visualization tool for wiki page edit history
+ Experiment.com
+ YT watching
+ 'social' code comments
+ eBay price trending
+ use static camera for astrophotography
+ convert PPT
+ https://news.ycombinator.com/item?id=9054290
+ twidere: sync provider
+ custom cabling eg candy cane
+ video frisbee throwing for analysis
+ 3d-printed camera
+ \"Alexa\" on pi
+ Punch card: on phone
+ HOTOSM tasking manager: stats
+ OPDS from S3
+ Tiki coasters
+ IP cam for catsMDM0\"
+ maven plugin to generate client code from swagger at project build time (ie
+ festivalslab: 'What now?' app: come out of a show
+ CRS Report for Congress (Congressional Research Service) as epub instead of PDF?
+ AR for tabletop gaming
+ dataviz on motors.co.uk 
+ \"Caution: Contents May Be Hot\" t-shirt (cf existing ones)
+ random: bluetooth \"badge\"/business card app: start BT
+ public domain/CC licensed sports footage (or speeches
+ \"autotour\" guides based on wikipedia entries?
+ clockwork/mechanical tracking platform for astrophotography.
+ hotosm: 'dashboard' of current users online
+ Hardware container (rasp pi): when container/process exits, powers down
+ github: 'devs who worked on this also worked on...' 'devs who starred this also starred...'
+ What do self powered
+ STL ideas
+ biofeedback audio for eg yoga
+ add notes
+ Scrabble-top (coffee) table
+ Mirakel: import from GTasks option
+ double buckle belt
+ Nexus or similar: hdmi out
+ Clone expedit
+ OSM intent for Android that uses tileserver other than Mapnik/OSM (eg MapBox?)
+ add new tracks to concentration...
+ find my contacts (facebook
+ \"smart\" playlist of all my music in 3-4 time
+ Android sync connector for Spotify contacts and 'social updates'
+ DIY toy plotterMTYx\"
+ Pulsarhunters.org
+ regex to multiple google searches
+ image stacking to remove unwanted features (eg cars on a road)
+ Android: Look up recent unknown callers automatically
+ Android: Top Trumps
+ Programming projects
+ Geeky Christmas decorations eg double helix
+ league/ladder plugin for ... microblogging etc
+ Google Search \"share\" action
+ Large comment thread: sentiment analysis
+ Arduino lamp for m & d
+ Find a js geo project to contribute to (mapbox? Leaflet?)
+ Terraform for social media accounts
+ hotosm: link to profile from 'me' menu
+ Jekyll theme for Montezuma
+ Extract POIs from epubs
+ Drones books on Kindle
+ OPDS catalog from S3 bucket
+ vimeo sync adapter; also github ; kickstarter ; Yahoo social sync/Flickr 
+ Cal dav
+ add notes on setting up dev env to github projects
+ L-system to create bespoke furniture (cf CityEngine...)
+ chrome/firefox plugins for vtodo similar to Gtasks
+ look into jobs abroad
+ Mozilla Popcorn for sports
+ Tools/method to move arbitrary RESTful
+ multi-armed bandit for git branches
+ Isochrones from home
+ build 'bucket environment' for plant
+ Laser cut balsa model snap-fit buildings
+ 'TaskSync' on droid: sync through APIs/protocols other than CalDAV
+ Greasemonkey or similar: HN sparklines for comment activity
+ christmas/advent projects
+ Tweet to blog post
+ Still Life from the sea: tentacles
+ Property based testing for rest APIs
+ do a kickstarter
+ 3d printing...
+ Child-safe 3d printing materials (and models)
+ .dot format for 'steps to space' poster
+ Yoga pose graph
+ \"maths\" bracelet/necklace of beads/patterns/colours in eg Fibonacci series
+ look for things on eBay to repair and sell on
+ Ghost theme/widget
+ 'Trigger' for vtodo/v event creation in android account
+ camera obscura (cardboard box) bright sky images
+ graph of yoga pose transitions
+ Alexa skills: task warriorNTY4\"
+ OSM: search for route loops of a given length (eg 400m
+ Steam wishlist -> cheapshark
+ DAVDroid doesn't support \"well-known URLs\"?
+ eBay spreadsheet: value of gadget components (eg iPod HDD) vs full gadget price
+ Box from 'organic' planks
+ \"Easy\" API to get price distribution for an eBay (keyword) search?
+ ufopedia rule set
+ mocha \"describe\" cannot have an empty/missing implementation?
+ Ceramic motor
+ wiki bot: look for stale pages (based on edit historical activity trend)
+ borrow FreeOrion rules
+ CalDAV VTODO web client as SPA
+ diy ~1U rack desk plan
+ Gnomes wimmelbild!
+ mapswipe setting for server endpoint
+ CNC-carved wooden relief -- eg on box/cabinet panel; landscape relief
+ Yoga apps...
+ Photo -> paint by numbers sheet as a web app
+ \"spotify\" for CC-licensed tunes???
+ How to identify property hotspots (buy to let)
+ RSS to insta paper solution
+ moebius scarf
+ Map revolut purchases
+ Jenkins plugin: show job dependency tree
+ Shirt sewing pattern
+ t-shirts: \"How ironic.\" \";-)\"

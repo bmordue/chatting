@@ -2,9 +2,11 @@
 
 Barebones API wrapper for reading a prompt from JSON and writing back the assitant response into the same JSON file, to build up a conversation with context.
 
-Put a prompt in the 'content' property of a message with role: user, then run `node built/chat/app.js`. Reload JSON, repeat...
+Put a prompt in the 'content' property of a message with role: user, then run `npm start` (or `node built/chat/app.js`). Reload JSON, repeat...
 
-Use as a template.
+The file `chats/messages.json` can be used as a template.
+
+The script will make a request to OpenAI API for each JSON file in the `chats/` dir where the latest message in the array is a user prompt.
 
 # demographics
 

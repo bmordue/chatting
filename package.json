@@ -1,7 +1,7 @@
 {
   "scripts": {
     "prestart": "tsc",
-    "start": "node built/app.js"
+    "start": "node built/chat/app.js"
   },
   "type": "module",
   "devDependencies": {
