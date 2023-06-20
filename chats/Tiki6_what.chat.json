@@ -1,10 +1,10 @@
 [
-    {
-        "role": "user",
-        "content": "what is  Tiki stacking blocks?"
-    },
-    {
-        "role": "assistant",
-        "content": "Tiki stacking blocks is a game or activity that involves building structures or sculptures using small blocks in the shape of Tiki masks or objects that resemble Polynesian or Hawaiian cultural symbols. The blocks are typically made of wood or plastic and come in various sizes, colors, and patterns. Players can stack these blocks to create towers, walls, or other forms of artistic arrangements. It can be played individually as a creative exercise or as a competitive game where players take turns stacking the blocks to see who can build the tallest or most visually appealing structure."
-    }
+  {
+    "role": "user",
+    "content": "what is  Tiki stacking blocks?"
+  },
+  {
+    "role": "assistant",
+    "content": "Tiki stacking blocks is a game or activity that involves building structures or sculptures using small blocks in the shape of Tiki masks or objects that resemble Polynesian or Hawaiian cultural symbols. The blocks are typically made of wood or plastic and come in various sizes, colors, and patterns. Players can stack these blocks to create towers, walls, or other forms of artistic arrangements. It can be played individually as a creative exercise or as a competitive game where players take turns stacking the blocks to see who can build the tallest or most visually appealing structure."
+  }
 ]

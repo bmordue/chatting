@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  \\\"Alexa\\\" on pi?"},{"role":"assistant","content":"Yes, there is a version of Amazon Alexa that can be used on Raspberry Pi devices. Amazon provides an official Alexa Voice Service (AVS) SDK for Raspberry Pi, which allows developers to integrate Alexa into their own projects or devices. By installing and configuring the AVS software on a Raspberry Pi, you can create a voice-controlled assistant similar to Amazon Echo or Alexa-enabled devices."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  \\\"Alexa\\\" on pi?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there is a version of Amazon Alexa that can be used on Raspberry Pi devices. Amazon provides an official Alexa Voice Service (AVS) SDK for Raspberry Pi, which allows developers to integrate Alexa into their own projects or devices. By installing and configuring the AVS software on a Raspberry Pi, you can create a voice-controlled assistant similar to Amazon Echo or Alexa-enabled devices."
+  }
+]

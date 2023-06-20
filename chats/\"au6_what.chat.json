@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  \\\"autotour\\\" guides based on wikipedia entries??"},{"role":"assistant","content":"There is no specific term or concept called \"autotour\" guides based on Wikipedia entries. However, there are various types of tour guides that can be based on Wikipedia entries or other online sources to provide information to tourists or visitors. These guides may refer to relevant Wikipedia articles or online resources to supplement their knowledge and provide accurate and up-to-date information about the destinations or attractions they cover. These guides can be in the form of printed materials, mobile apps, audio guides, or even local tour operators who utilize online resources to enhance their tours."}]
+[
+  {
+    "role": "user",
+    "content": "what is  \\\"autotour\\\" guides based on wikipedia entries??"
+  },
+  {
+    "role": "assistant",
+    "content": "There is no specific term or concept called \"autotour\" guides based on Wikipedia entries. However, there are various types of tour guides that can be based on Wikipedia entries or other online sources to provide information to tourists or visitors. These guides may refer to relevant Wikipedia articles or online resources to supplement their knowledge and provide accurate and up-to-date information about the destinations or attractions they cover. These guides can be in the form of printed materials, mobile apps, audio guides, or even local tour operators who utilize online resources to enhance their tours."
+  }
+]

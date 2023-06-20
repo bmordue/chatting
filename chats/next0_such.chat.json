@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  next whichgreentea: quality cocoa; high end outdoors wear?"},{"role":"assistant","content":"There doesn't appear to be a specific brand or product called \"next whichgreentea\" that specializes in both quality cocoa and high-end outdoors wear. However, there are plenty of reputable brands that offer separate products in these categories. You can find high-quality cocoa or chocolate from gourmet brands like Valrhona, Callebaut, or Lindt. For high-end outdoors wear, popular brands include The North Face, Patagonia, Arc'teryx, and Columbia."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  next whichgreentea: quality cocoa; high end outdoors wear?"
+  },
+  {
+    "role": "assistant",
+    "content": "There doesn't appear to be a specific brand or product called \"next whichgreentea\" that specializes in both quality cocoa and high-end outdoors wear. However, there are plenty of reputable brands that offer separate products in these categories. You can find high-quality cocoa or chocolate from gourmet brands like Valrhona, Callebaut, or Lindt. For high-end outdoors wear, popular brands include The North Face, Patagonia, Arc'teryx, and Columbia."
+  }
+]

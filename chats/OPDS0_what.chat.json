@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  OPDS from S3?"},{"role":"assistant","content":"OPDS stands for Open Publication Distribution System. It is an open standard for easily distributing and accessing electronic publications, such as e-books, from various sources. S3, in this context, refers to Amazon Simple Storage Service, which is a scalable cloud storage service provided by Amazon Web Services (AWS). \n\nOPDS from S3 refers to the use of the OPDS standard for distributing and accessing electronic publications hosted on Amazon S3. This allows publishers, distributors, and users to easily browse, search, and download e-books and other publications stored on S3 using OPDS-compatible applications, devices, or platforms."}]
+[
+  {
+    "role": "user",
+    "content": "what is  OPDS from S3?"
+  },
+  {
+    "role": "assistant",
+    "content": "OPDS stands for Open Publication Distribution System. It is an open standard for easily distributing and accessing electronic publications, such as e-books, from various sources. S3, in this context, refers to Amazon Simple Storage Service, which is a scalable cloud storage service provided by Amazon Web Services (AWS). \n\nOPDS from S3 refers to the use of the OPDS standard for distributing and accessing electronic publications hosted on Amazon S3. This allows publishers, distributors, and users to easily browse, search, and download e-books and other publications stored on S3 using OPDS-compatible applications, devices, or platforms."
+  }
+]

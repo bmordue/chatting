@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  iOS client for tt-rss?"},{"role":"assistant","content":"Yes, there is a third-party iOS client available for TT-RSS (Tiny Tiny RSS). The iOS client is called \"Fiery Feeds\" and can be downloaded from the App Store. Fiery Feeds allows you to access your TT-RSS feeds on your iOS devices and offers several features like syncing, offline support, and customizable themes."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  iOS client for tt-rss?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there is a third-party iOS client available for TT-RSS (Tiny Tiny RSS). The iOS client is called \"Fiery Feeds\" and can be downloaded from the App Store. Fiery Feeds allows you to access your TT-RSS feeds on your iOS devices and offers several features like syncing, offline support, and customizable themes."
+  }
+]

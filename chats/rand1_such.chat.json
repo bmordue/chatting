@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  random: bluetooth \\\"badge\\\"/business card app: start BT?"},{"role":"assistant","content":"Yes, there are Bluetooth \"badge\" or business card apps available that allow you to start Bluetooth communication and exchange contact information. These apps typically use Bluetooth Low Energy (BLE) technology and allow users to share their contact details, such as name, phone number, email, and social media profiles, with other nearby users who also have the app installed. Some popular examples of such apps include Bump, CamCard, and HiHello."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  random: bluetooth \\\"badge\\\"/business card app: start BT?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are Bluetooth \"badge\" or business card apps available that allow you to start Bluetooth communication and exchange contact information. These apps typically use Bluetooth Low Energy (BLE) technology and allow users to share their contact details, such as name, phone number, email, and social media profiles, with other nearby users who also have the app installed. Some popular examples of such apps include Bump, CamCard, and HiHello."
+  }
+]

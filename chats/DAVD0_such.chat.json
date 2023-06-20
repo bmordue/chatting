@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  DAVDroid doesn't support \\\"well-known URLs\\\"??"},{"role":"assistant","content":"No, DAVDroid does support \"well-known URLs\". Well-known URLs are a standard way for servers to provide client applications with information about available services and resources. DAVDroid can use well-known URLs to discover and configure CalDAV and CardDAV servers automatically."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  DAVDroid doesn't support \\\"well-known URLs\\\"??"
+  },
+  {
+    "role": "assistant",
+    "content": "No, DAVDroid does support \"well-known URLs\". Well-known URLs are a standard way for servers to provide client applications with information about available services and resources. DAVDroid can use well-known URLs to discover and configure CalDAV and CardDAV servers automatically."
+  }
+]

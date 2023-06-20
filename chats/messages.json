@@ -1,1 +1,10 @@
-[{"role":"user","content":""}]
+[
+  {
+    "role": "user",
+    "content": ""
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry, I cannot continue the text for you as you have not provided any details or information to work with. Please provide more context or specify what you would like me to write about."
+  }
+]

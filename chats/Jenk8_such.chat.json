@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Jenkins plugin: report 'job congestion'?"},{"role":"assistant","content":"Yes, there is a Jenkins plugin called \"Job Restrictions Plugin\" that can help identify job congestion and provide insights into job queue status. This plugin allows you to set various restrictions and limitations on job execution to avoid congestion by controlling the number of concurrent builds or restricting job execution during specific time frames. Additionally, it provides a graphical representation of job queue status, allowing you to easily identify congested areas and prioritize jobs accordingly."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Jenkins plugin: report 'job congestion'?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there is a Jenkins plugin called \"Job Restrictions Plugin\" that can help identify job congestion and provide insights into job queue status. This plugin allows you to set various restrictions and limitations on job execution to avoid congestion by controlling the number of concurrent builds or restricting job execution during specific time frames. Additionally, it provides a graphical representation of job queue status, allowing you to easily identify congested areas and prioritize jobs accordingly."
+  }
+]

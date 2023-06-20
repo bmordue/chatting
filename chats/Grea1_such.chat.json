@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Greasemonkey or similar: HN sparklines for comment activity?"},{"role":"assistant","content":"Yes, there is a tool called \"Hacker News Comment Visualization\" which provides sparklines for comment activity on Hacker News (HN). It is a Greasemonkey script that adds sparklines to show the comment activity over time for each submission on the HN website. The sparklines give a graphical representation of how active the comment discussions have been for a particular submission. This tool can be found on the Greasy Fork website, which is a platform for user scripts compatible with various user script managers, including Greasemonkey."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Greasemonkey or similar: HN sparklines for comment activity?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there is a tool called \"Hacker News Comment Visualization\" which provides sparklines for comment activity on Hacker News (HN). It is a Greasemonkey script that adds sparklines to show the comment activity over time for each submission on the HN website. The sparklines give a graphical representation of how active the comment discussions have been for a particular submission. This tool can be found on the Greasy Fork website, which is a platform for user scripts compatible with various user script managers, including Greasemonkey."
+  }
+]

@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Chrome extension: add instapaper button to feedly?"},{"role":"assistant","content":"The Chrome extension \"Add Instapaper Button to Feedly\" is a tool that enhances the functionality of the Feedly RSS reader by providing an additional button that allows users to save articles directly to their Instapaper account. Instapaper is a service that lets users save web articles to read later in a clean and clutter-free interface. With this extension, Feedly users can easily bookmark articles they come across and access them later in their Instapaper account."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Chrome extension: add instapaper button to feedly?"
+  },
+  {
+    "role": "assistant",
+    "content": "The Chrome extension \"Add Instapaper Button to Feedly\" is a tool that enhances the functionality of the Feedly RSS reader by providing an additional button that allows users to save articles directly to their Instapaper account. Instapaper is a service that lets users save web articles to read later in a clean and clutter-free interface. With this extension, Feedly users can easily bookmark articles they come across and access them later in their Instapaper account."
+  }
+]

@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  annotated Beeton (eg as wiki)?"},{"role":"assistant","content":"Annotated Beeton refers to a version of Mrs. Beeton's Book of Household Management that has been annotated or provided with additional explanations, comments, or references. Mrs. Beeton's Book of Household Management was a Victorian-era guidebook to running a household, originally published in 1861 by Isabella Beeton. \n\nAnnotated versions of the book, such as the ones available on websites like WikiSource, generally include footnotes or added text that provide further details, background information, or modern perspectives on the topics discussed in the original book. This helps readers understand the historical context, clarifies certain instructions or explanations, and sometimes corrects misconceptions or outdated advice given in the original text. The annotations help bridge the gap between the Victorian era and the present day, making the content more accessible and useful for contemporary readers."}]
+[
+  {
+    "role": "user",
+    "content": "what is  annotated Beeton (eg as wiki)?"
+  },
+  {
+    "role": "assistant",
+    "content": "Annotated Beeton refers to a version of Mrs. Beeton's Book of Household Management that has been annotated or provided with additional explanations, comments, or references. Mrs. Beeton's Book of Household Management was a Victorian-era guidebook to running a household, originally published in 1861 by Isabella Beeton. \n\nAnnotated versions of the book, such as the ones available on websites like WikiSource, generally include footnotes or added text that provide further details, background information, or modern perspectives on the topics discussed in the original book. This helps readers understand the historical context, clarifies certain instructions or explanations, and sometimes corrects misconceptions or outdated advice given in the original text. The annotations help bridge the gap between the Victorian era and the present day, making the content more accessible and useful for contemporary readers."
+  }
+]

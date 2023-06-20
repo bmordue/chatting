@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Amazon wishlist -> luzme?"},{"role":"assistant","content":"Amazon Wishlist is a feature provided by the online retail giant Amazon that allows users to create a personalized list of items they are interested in purchasing. It can be used for personal use, such as keeping track of desired products, or shared with others as a gift registry.\n\nOn the other hand, Luzme is a price comparison website and online service that specifically focuses on e-books. It allows users to search for e-books and compare their prices across various online platforms and stores."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Amazon wishlist -> luzme?"
+  },
+  {
+    "role": "assistant",
+    "content": "Amazon Wishlist is a feature provided by the online retail giant Amazon that allows users to create a personalized list of items they are interested in purchasing. It can be used for personal use, such as keeping track of desired products, or shared with others as a gift registry.\n\nOn the other hand, Luzme is a price comparison website and online service that specifically focuses on e-books. It allows users to search for e-books and compare their prices across various online platforms and stores."
+  }
+]

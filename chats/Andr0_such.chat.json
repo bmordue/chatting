@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Android sync connector for Spotify contacts and 'social updates'?"},{"role":"assistant","content":"As of my knowledge, there is no specific Android sync connector available for Spotify contacts and social updates. Spotify primarily focuses on syncing music and playlists across devices and platforms, rather than integrating with other types of data such as contacts or social updates."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Android sync connector for Spotify contacts and 'social updates'?"
+  },
+  {
+    "role": "assistant",
+    "content": "As of my knowledge, there is no specific Android sync connector available for Spotify contacts and social updates. Spotify primarily focuses on syncing music and playlists across devices and platforms, rather than integrating with other types of data such as contacts or social updates."
+  }
+]

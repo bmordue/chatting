@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Greasemonkey or similar: HN sparklines for comment activity?"},{"role":"assistant","content":"Greasemonkey is a browser extension that allows users to customize web pages through the use of user scripts. These user scripts can modify the appearance and functionality of web pages, making it easier for users to personalize their browsing experience. Greasemonkey is primarily used with Mozilla Firefox, but there are similar extensions available for other browsers.\n\nHN sparklines for comment activity refers to a user script that provides visual representations, known as sparklines, for comment activity on the popular news aggregation site Hacker News (HN). The sparklines display the level of activity, such as upvotes and replies, for each comment over a specified period of time. This allows users to quickly assess the popularity and engagement of individual comments within a discussion thread on Hacker News."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Greasemonkey or similar: HN sparklines for comment activity?"
+  },
+  {
+    "role": "assistant",
+    "content": "Greasemonkey is a browser extension that allows users to customize web pages through the use of user scripts. These user scripts can modify the appearance and functionality of web pages, making it easier for users to personalize their browsing experience. Greasemonkey is primarily used with Mozilla Firefox, but there are similar extensions available for other browsers.\n\nHN sparklines for comment activity refers to a user script that provides visual representations, known as sparklines, for comment activity on the popular news aggregation site Hacker News (HN). The sparklines display the level of activity, such as upvotes and replies, for each comment over a specified period of time. This allows users to quickly assess the popularity and engagement of individual comments within a discussion thread on Hacker News."
+  }
+]

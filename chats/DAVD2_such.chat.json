@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  DAVDroid etc: 'Send contacts to CardDAV'?"},{"role":"assistant","content":"Yes, DAVDroid is an open-source app for Android that can synchronize contacts, calendar events, and tasks with remote servers using the CardDAV and CalDAV protocols. With DAVDroid, you can synchronize your contacts with a CardDAV server, allowing you to send and receive contacts through the server."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  DAVDroid etc: 'Send contacts to CardDAV'?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, DAVDroid is an open-source app for Android that can synchronize contacts, calendar events, and tasks with remote servers using the CardDAV and CalDAV protocols. With DAVDroid, you can synchronize your contacts with a CardDAV server, allowing you to send and receive contacts through the server."
+  }
+]

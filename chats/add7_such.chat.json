@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  add notes on setting up dev env to github projects?"},{"role":"assistant","content":"Yes, it is common practice to add notes on setting up the development environment for GitHub projects. These notes are typically added to a project's documentation or README file. They can include information about required dependencies, installation instructions, specific configuration details, and any other important notes for developers to set up their development environment correctly for the project."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  add notes on setting up dev env to github projects?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, it is common practice to add notes on setting up the development environment for GitHub projects. These notes are typically added to a project's documentation or README file. They can include information about required dependencies, installation instructions, specific configuration details, and any other important notes for developers to set up their development environment correctly for the project."
+  }
+]

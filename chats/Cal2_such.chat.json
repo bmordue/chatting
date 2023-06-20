@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Cal dav?"},{"role":"assistant","content":"Yes, CalDAV (Calendar Distributed Authoring and Versioning) is a network protocol that allows for accessing and managing calendar data across multiple devices and applications. It is an extension of the WebDAV protocol and is widely used for synchronization and integration of calendars on various platforms. CalDAV is supported by many calendar applications and services, such as Google Calendar, Apple Calendar, and Microsoft Outlook."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Cal dav?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, CalDAV (Calendar Distributed Authoring and Versioning) is a network protocol that allows for accessing and managing calendar data across multiple devices and applications. It is an extension of the WebDAV protocol and is widely used for synchronization and integration of calendars on various platforms. CalDAV is supported by many calendar applications and services, such as Google Calendar, Apple Calendar, and Microsoft Outlook."
+  }
+]

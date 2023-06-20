@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  mapswipe setting for server endpoint?"},{"role":"assistant","content":"No, there is no specific \"mapswipe setting for server endpoint\" as MapSwipe is a mobile application that allows volunteers to contribute by swiping through satellite imagery to identify and tag features of interest. It does not have a server endpoint or specific server settings."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  mapswipe setting for server endpoint?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, there is no specific \"mapswipe setting for server endpoint\" as MapSwipe is a mobile application that allows volunteers to contribute by swiping through satellite imagery to identify and tag features of interest. It does not have a server endpoint or specific server settings."
+  }
+]

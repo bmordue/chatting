@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  PD eg Newton on Kindle?? publish through eg github?"},{"role":"assistant","content":"Yes, it is possible to find PD (Public Domain) works, including texts by Newton, on platforms such as Kindle. Many PD works are available in digital formats and can be easily accessed through Kindle and other e-book platforms.\n\nAs for publishing PD works through platforms like Github, while Github is primarily used for code repositories, it can also host public domain texts and other documents. Some individuals or organizations choose to upload PD works to Github for easy access and collaboration. However, it's primarily known for hosting and managing code, so it may not be the most popular choice for PD texts when compared to platforms specifically designed for e-books like Kindle, Project Gutenberg, or Internet Archive."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  PD eg Newton on Kindle?? publish through eg github?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, it is possible to find PD (Public Domain) works, including texts by Newton, on platforms such as Kindle. Many PD works are available in digital formats and can be easily accessed through Kindle and other e-book platforms.\n\nAs for publishing PD works through platforms like Github, while Github is primarily used for code repositories, it can also host public domain texts and other documents. Some individuals or organizations choose to upload PD works to Github for easy access and collaboration. However, it's primarily known for hosting and managing code, so it may not be the most popular choice for PD texts when compared to platforms specifically designed for e-books like Kindle, Project Gutenberg, or Internet Archive."
+  }
+]

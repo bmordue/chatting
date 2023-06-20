@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  \\\"spotify\\\" for CC-licensed tunes????"},{"role":"assistant","content":"\"Spotify\" is not specifically for Creative Commons (CC) licensed tunes. Spotify is a popular digital music streaming platform that provides access to a vast library of music from various artists and record labels. While Spotify does allow artists to upload their music, it primarily focuses on traditionally licensed music from established artists and labels. However, there are other platforms such as SoundCloud, Jamendo, and Free Music Archive that offer a wide range of CC-licensed tunes for streaming and downloading."}]
+[
+  {
+    "role": "user",
+    "content": "what is  \\\"spotify\\\" for CC-licensed tunes????"
+  },
+  {
+    "role": "assistant",
+    "content": "\"Spotify\" is not specifically for Creative Commons (CC) licensed tunes. Spotify is a popular digital music streaming platform that provides access to a vast library of music from various artists and record labels. While Spotify does allow artists to upload their music, it primarily focuses on traditionally licensed music from established artists and labels. However, there are other platforms such as SoundCloud, Jamendo, and Free Music Archive that offer a wide range of CC-licensed tunes for streaming and downloading."
+  }
+]

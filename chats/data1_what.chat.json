@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  dataviz on motors.co.uk ?"},{"role":"assistant","content":"DataViz on Motors.co.uk refers to the data visualization feature provided on the Motors.co.uk website. Data visualization is the graphical representation of data, allowing users to understand complex information more easily and make informed decisions.\n\nOn Motors.co.uk, the DataViz feature helps car buyers and sellers to analyze and interpret various data points related to car listings. It provides interactive and visually appealing charts, graphs, and maps to represent data such as car prices, mileage, age, location, and more.\n\nWith DataViz, users can easily compare different car models, filter data based on their preferences, and identify trends or patterns in the car market. This feature enhances the overall car searching experience by providing a visual representation of the information, making it easier for users to navigate and find the desired vehicles."}]
+[
+  {
+    "role": "user",
+    "content": "what is  dataviz on motors.co.uk ?"
+  },
+  {
+    "role": "assistant",
+    "content": "DataViz on Motors.co.uk refers to the data visualization feature provided on the Motors.co.uk website. Data visualization is the graphical representation of data, allowing users to understand complex information more easily and make informed decisions.\n\nOn Motors.co.uk, the DataViz feature helps car buyers and sellers to analyze and interpret various data points related to car listings. It provides interactive and visually appealing charts, graphs, and maps to represent data such as car prices, mileage, age, location, and more.\n\nWith DataViz, users can easily compare different car models, filter data based on their preferences, and identify trends or patterns in the car market. This feature enhances the overall car searching experience by providing a visual representation of the information, making it easier for users to navigate and find the desired vehicles."
+  }
+]

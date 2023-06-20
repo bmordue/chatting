@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Android: Top Trumps?"},{"role":"assistant","content":"Android: Top Trumps is a digital card game based on the popular physical card game called Top Trumps. It is an Android application that allows players to collect and battle with virtual cards featuring various characters, vehicles, or themes. Each card contains different attributes or statistics, and players compare these statistics to determine the winner of each round. The game is typically played against AI opponents or other online players."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Android: Top Trumps?"
+  },
+  {
+    "role": "assistant",
+    "content": "Android: Top Trumps is a digital card game based on the popular physical card game called Top Trumps. It is an Android application that allows players to collect and battle with virtual cards featuring various characters, vehicles, or themes. Each card contains different attributes or statistics, and players compare these statistics to determine the winner of each round. The game is typically played against AI opponents or other online players."
+  }
+]

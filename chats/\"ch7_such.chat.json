@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  \\\"choose your own adventure\\\"-style how-tos?"},{"role":"assistant","content":"Yes, there are several interactive \"choose your own adventure\"-style how-tos available. These interactive tutorials often allow users to make choices and decide their own path while learning or problem-solving. They can be found in various forms such as interactive websites, mobile apps, or e-books. These tutorials are designed to provide an engaging and personalized learning experience."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  \\\"choose your own adventure\\\"-style how-tos?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are several interactive \"choose your own adventure\"-style how-tos available. These interactive tutorials often allow users to make choices and decide their own path while learning or problem-solving. They can be found in various forms such as interactive websites, mobile apps, or e-books. These tutorials are designed to provide an engaging and personalized learning experience."
+  }
+]

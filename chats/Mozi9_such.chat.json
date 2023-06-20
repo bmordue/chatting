@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Mozilla Popcorn for sports?"},{"role":"assistant","content":"No, there is no specific version of Mozilla Popcorn designed specifically for sports. Mozilla Popcorn is an open-source web-based multimedia tool used for enhancing and creating interactive videos. While it can be used for various purposes, including adding real-time data overlays and annotations to videos, it does not have a specialized version dedicated to sports."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Mozilla Popcorn for sports?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, there is no specific version of Mozilla Popcorn designed specifically for sports. Mozilla Popcorn is an open-source web-based multimedia tool used for enhancing and creating interactive videos. While it can be used for various purposes, including adding real-time data overlays and annotations to videos, it does not have a specialized version dedicated to sports."
+  }
+]

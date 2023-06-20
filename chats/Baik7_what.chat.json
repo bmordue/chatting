@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Baikal admin interface: show URLs?"},{"role":"assistant","content":"The \"Baikal admin interface: show URLs\" refers to a feature in Baikal, which is a lightweight CalDAV and CardDAV server. The admin interface allows you to view and manage various URLs associated with Baikal, such as endpoints for accessing calendars, address books, and preference settings.\n\nBy accessing the Baikal admin interface and selecting the \"show URLs\" option, you can see the URLs that are configured for accessing different Baikal functionalities. These URLs may include the address for CalDAV or CardDAV synchronization, web interface, or other specific components of the server."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Baikal admin interface: show URLs?"
+  },
+  {
+    "role": "assistant",
+    "content": "The \"Baikal admin interface: show URLs\" refers to a feature in Baikal, which is a lightweight CalDAV and CardDAV server. The admin interface allows you to view and manage various URLs associated with Baikal, such as endpoints for accessing calendars, address books, and preference settings.\n\nBy accessing the Baikal admin interface and selecting the \"show URLs\" option, you can see the URLs that are configured for accessing different Baikal functionalities. These URLs may include the address for CalDAV or CardDAV synchronization, web interface, or other specific components of the server."
+  }
+]

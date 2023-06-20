@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  double buckle belt?"},{"role":"assistant","content":"A double buckle belt is a type of belt that features two buckles instead of the usual single buckle. The buckles are typically placed side by side or stacked vertically. This design adds an extra element of style and uniqueness to the belt. The double buckle belt is often used as a fashion accessory and can be found in various materials, colors, and patterns."}]
+[
+  {
+    "role": "user",
+    "content": "what is  double buckle belt?"
+  },
+  {
+    "role": "assistant",
+    "content": "A double buckle belt is a type of belt that features two buckles instead of the usual single buckle. The buckles are typically placed side by side or stacked vertically. This design adds an extra element of style and uniqueness to the belt. The double buckle belt is often used as a fashion accessory and can be found in various materials, colors, and patterns."
+  }
+]

@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Google Search \\\"share\\\" action?"},{"role":"assistant","content":"The Google Search \"share\" action is a feature that allows users to share search results with others. When conducting a search on Google, users can click on the \"share\" button located next to the search result they want to share. This action opens a menu where users can select the desired sharing method, such as sending the link via email, sharing it on social media platforms, or using messaging apps. By utilizing the \"share\" action, users can easily distribute search results to friends, colleagues, or anyone they wish to provide information or recommendations to."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Google Search \\\"share\\\" action?"
+  },
+  {
+    "role": "assistant",
+    "content": "The Google Search \"share\" action is a feature that allows users to share search results with others. When conducting a search on Google, users can click on the \"share\" button located next to the search result they want to share. This action opens a menu where users can select the desired sharing method, such as sending the link via email, sharing it on social media platforms, or using messaging apps. By utilizing the \"share\" action, users can easily distribute search results to friends, colleagues, or anyone they wish to provide information or recommendations to."
+  }
+]

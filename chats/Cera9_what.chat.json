@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Ceramic motor?"},{"role":"assistant","content":"A ceramic motor is a type of electric motor that uses ceramic materials for its core components, such as the stator and rotor. Ceramic motors are known for their high performance and durability, as ceramic materials have excellent thermal and electrical properties. They can operate at higher temperatures and have better heat dissipation compared to traditional motors using metal components. Ceramic motors are often used in industrial applications where high efficiency, reliability, and longevity are crucial, such as in aerospace, automotive, and medical industries."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Ceramic motor?"
+  },
+  {
+    "role": "assistant",
+    "content": "A ceramic motor is a type of electric motor that uses ceramic materials for its core components, such as the stator and rotor. Ceramic motors are known for their high performance and durability, as ceramic materials have excellent thermal and electrical properties. They can operate at higher temperatures and have better heat dissipation compared to traditional motors using metal components. Ceramic motors are often used in industrial applications where high efficiency, reliability, and longevity are crucial, such as in aerospace, automotive, and medical industries."
+  }
+]

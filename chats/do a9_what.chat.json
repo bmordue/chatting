@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  do a kickstarter?"},{"role":"assistant","content":"Kickstarter is an online crowdfunding platform that allows individuals or organizations to raise funds for various creative projects or ideas. It provides a platform for people to pitch their ideas or products and solicit financial support from the public. Artists, entrepreneurs, designers, inventors, and others typically use Kickstarter to fund their projects. In return for their financial contribution, backers often receive rewards such as early access to the project, exclusive merchandise, or other incentives. Kickstarter has become a popular avenue for individuals to turn their ideas into reality with the help of a supportive community."}]
+[
+  {
+    "role": "user",
+    "content": "what is  do a kickstarter?"
+  },
+  {
+    "role": "assistant",
+    "content": "Kickstarter is an online crowdfunding platform that allows individuals or organizations to raise funds for various creative projects or ideas. It provides a platform for people to pitch their ideas or products and solicit financial support from the public. Artists, entrepreneurs, designers, inventors, and others typically use Kickstarter to fund their projects. In return for their financial contribution, backers often receive rewards such as early access to the project, exclusive merchandise, or other incentives. Kickstarter has become a popular avenue for individuals to turn their ideas into reality with the help of a supportive community."
+  }
+]

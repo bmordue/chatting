@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Alexa skills?"},{"role":"assistant","content":"Alexa skills are voice-driven capabilities that enable users to interact with Amazon's virtual assistant, Alexa, using voice commands. These skills allow users to perform various actions and access specific services, information, or entertainment through Alexa-enabled devices, such as Amazon Echo, Echo Dot, and Echo Show. Skills can be developed by third-party developers as well as Amazon, and they cover a wide range of categories, including weather updates, news briefings, smart home control, games, trivia, and more. By activating skills on their Alexa devices, users can personalize their Alexa's abilities and enhance their overall user experience."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Alexa skills?"
+  },
+  {
+    "role": "assistant",
+    "content": "Alexa skills are voice-driven capabilities that enable users to interact with Amazon's virtual assistant, Alexa, using voice commands. These skills allow users to perform various actions and access specific services, information, or entertainment through Alexa-enabled devices, such as Amazon Echo, Echo Dot, and Echo Show. Skills can be developed by third-party developers as well as Amazon, and they cover a wide range of categories, including weather updates, news briefings, smart home control, games, trivia, and more. By activating skills on their Alexa devices, users can personalize their Alexa's abilities and enhance their overall user experience."
+  }
+]

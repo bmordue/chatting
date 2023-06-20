@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  moebius scarf?"},{"role":"assistant","content":"Yes, there is such a thing as a Möbius scarf. A Möbius strip is a mathematical concept, named after the German mathematician August Ferdinand Möbius, which is a surface with only one side and one edge. A Möbius scarf is created by joining the ends of a strip of fabric with a half-twist before sewing or knitting them together, resulting in a looped scarf with a single continuous surface."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  moebius scarf?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there is such a thing as a Möbius scarf. A Möbius strip is a mathematical concept, named after the German mathematician August Ferdinand Möbius, which is a surface with only one side and one edge. A Möbius scarf is created by joining the ends of a strip of fabric with a half-twist before sewing or knitting them together, resulting in a looped scarf with a single continuous surface."
+  }
+]

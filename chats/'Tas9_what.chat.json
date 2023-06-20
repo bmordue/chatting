@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  'TaskSync' on droid: sync through APIs/protocols other than CalDAV?"},{"role":"assistant","content":"TaskSync is an application programming interface (API) and protocol used on the Android platform for synchronization of tasks or to-do lists. It allows developers to sync tasks between different devices or applications through APIs and protocols other than CalDAV.\n\nCalDAV is a widely used standard protocol for syncing calendar-related data, but TaskSync provides an alternative for synchronizing tasks specifically. This means that developers can integrate TaskSync into their apps to enable task synchronization with other devices or task management platforms.\n\nTaskSync may use different APIs or protocols depending on the implementation, and it offers flexibility to developers to choose the most suitable synchronization method for their applications."}]
+[
+  {
+    "role": "user",
+    "content": "what is  'TaskSync' on droid: sync through APIs/protocols other than CalDAV?"
+  },
+  {
+    "role": "assistant",
+    "content": "TaskSync is an application programming interface (API) and protocol used on the Android platform for synchronization of tasks or to-do lists. It allows developers to sync tasks between different devices or applications through APIs and protocols other than CalDAV.\n\nCalDAV is a widely used standard protocol for syncing calendar-related data, but TaskSync provides an alternative for synchronizing tasks specifically. This means that developers can integrate TaskSync into their apps to enable task synchronization with other devices or task management platforms.\n\nTaskSync may use different APIs or protocols depending on the implementation, and it offers flexibility to developers to choose the most suitable synchronization method for their applications."
+  }
+]

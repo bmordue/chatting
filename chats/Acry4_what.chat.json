@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Acrylic on board \\\"flash cards\\\"??"},{"role":"assistant","content":"Acrylic on board \"flash cards\" refers to a set of flashcards made from acrylic material. Flashcards are typically used as a learning tool to aid in memorizing information or reviewing concepts. Acrylic is a type of plastic that is durable, rigid, and has a smooth surface. By creating flashcards from acrylic board, they become more sturdy and long-lasting compared to traditional paper flashcards. The acrylic surface allows for easy erasing and can be used with dry-erase markers, making it convenient for repeated use and quick revision."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Acrylic on board \\\"flash cards\\\"??"
+  },
+  {
+    "role": "assistant",
+    "content": "Acrylic on board \"flash cards\" refers to a set of flashcards made from acrylic material. Flashcards are typically used as a learning tool to aid in memorizing information or reviewing concepts. Acrylic is a type of plastic that is durable, rigid, and has a smooth surface. By creating flashcards from acrylic board, they become more sturdy and long-lasting compared to traditional paper flashcards. The acrylic surface allows for easy erasing and can be used with dry-erase markers, making it convenient for repeated use and quick revision."
+  }
+]

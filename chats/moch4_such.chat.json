@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  mocha \\\"describe\\\" cannot have an empty/missing implementation??"},{"role":"assistant","content":"In Mocha, the `describe` function should have at least one `it` or nested `describe` block to define the test cases. Having an empty or missing implementation for `describe` itself is not allowed, as it would not define any tests or test suites. If you try to run Mocha with an empty `describe` block, it will show a warning that there are no tests defined."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  mocha \\\"describe\\\" cannot have an empty/missing implementation??"
+  },
+  {
+    "role": "assistant",
+    "content": "In Mocha, the `describe` function should have at least one `it` or nested `describe` block to define the test cases. Having an empty or missing implementation for `describe` itself is not allowed, as it would not define any tests or test suites. If you try to run Mocha with an empty `describe` block, it will show a warning that there are no tests defined."
+  }
+]

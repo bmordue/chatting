@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  'TaskSync' on droid: sync through APIs/protocols other than CalDAV?"},{"role":"assistant","content":"Yes, TaskSync is a third-party app available for Android devices that allows you to sync tasks across multiple devices or platforms using APIs/protocols other than CalDAV. TaskSync supports various task management systems, such as Toodledo, Todoist, Google Tasks, Microsoft Exchange, and more. It provides synchronization capabilities for tasks through their respective APIs or protocols."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  'TaskSync' on droid: sync through APIs/protocols other than CalDAV?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, TaskSync is a third-party app available for Android devices that allows you to sync tasks across multiple devices or platforms using APIs/protocols other than CalDAV. TaskSync supports various task management systems, such as Toodledo, Todoist, Google Tasks, Microsoft Exchange, and more. It provides synchronization capabilities for tasks through their respective APIs or protocols."
+  }
+]

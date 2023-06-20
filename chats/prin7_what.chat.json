@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  printable HTTP cheatsheet?"},{"role":"assistant","content":"A printable HTTP cheatsheet refers to a document that provides a concise and compact summary of the various HTTP (Hypertext Transfer Protocol) methods, status codes, headers, and other relevant information. It serves as a quick reference guide for developers and network administrators when working with HTTP-based systems and web applications. The cheatsheet usually includes details about common HTTP methods such as GET, POST, PUT, DELETE, as well as important status codes like 200 OK, 404 Not Found, 500 Internal Server Error, and more. It may also contain information about commonly used headers, their purpose, and syntax. The printable format allows users to have a physical copy of the cheatsheet for easy access and reference."}]
+[
+  {
+    "role": "user",
+    "content": "what is  printable HTTP cheatsheet?"
+  },
+  {
+    "role": "assistant",
+    "content": "A printable HTTP cheatsheet refers to a document that provides a concise and compact summary of the various HTTP (Hypertext Transfer Protocol) methods, status codes, headers, and other relevant information. It serves as a quick reference guide for developers and network administrators when working with HTTP-based systems and web applications. The cheatsheet usually includes details about common HTTP methods such as GET, POST, PUT, DELETE, as well as important status codes like 200 OK, 404 Not Found, 500 Internal Server Error, and more. It may also contain information about commonly used headers, their purpose, and syntax. The printable format allows users to have a physical copy of the cheatsheet for easy access and reference."
+  }
+]

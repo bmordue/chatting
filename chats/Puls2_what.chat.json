@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Pulsarhunters.org?"},{"role":"assistant","content":"Pulsarhunters.org is a website or online platform dedicated to facilitating citizen science projects related to the discovery and study of pulsars. Pulsars are highly magnetized, rotating neutron stars that emit beams of electromagnetic radiation. They are typically detected through their regular pulses of radiation, which can be observed using radio telescopes. Pulsarhunters.org allows interested individuals to actively participate in the search for new pulsars by visually analyzing data and identifying potential candidates. The platform may provide learning resources, training, and tools to assist volunteers in their efforts to contribute to scientific research and make new discoveries in the field of pulsar astronomy."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Pulsarhunters.org?"
+  },
+  {
+    "role": "assistant",
+    "content": "Pulsarhunters.org is a website or online platform dedicated to facilitating citizen science projects related to the discovery and study of pulsars. Pulsars are highly magnetized, rotating neutron stars that emit beams of electromagnetic radiation. They are typically detected through their regular pulses of radiation, which can be observed using radio telescopes. Pulsarhunters.org allows interested individuals to actively participate in the search for new pulsars by visually analyzing data and identifying potential candidates. The platform may provide learning resources, training, and tools to assist volunteers in their efforts to contribute to scientific research and make new discoveries in the field of pulsar astronomy."
+  }
+]

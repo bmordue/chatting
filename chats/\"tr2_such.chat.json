@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  \\\"train\\\" with something like MapSwipe?"},{"role":"assistant","content":"No, there is no specific application or feature called \"MapSwipe Train\" or similar. However, MapSwipe is a crowdsourcing app that allows users to contribute by swiping through satellite imagery to identify various features on the ground, such as buildings, roads, and other points of interest. This data is then used for mapping initiatives and humanitarian projects. So, while there is no direct \"train\" mode within MapSwipe, users can use the app to learn and contribute to mapping efforts."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  \\\"train\\\" with something like MapSwipe?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, there is no specific application or feature called \"MapSwipe Train\" or similar. However, MapSwipe is a crowdsourcing app that allows users to contribute by swiping through satellite imagery to identify various features on the ground, such as buildings, roads, and other points of interest. This data is then used for mapping initiatives and humanitarian projects. So, while there is no direct \"train\" mode within MapSwipe, users can use the app to learn and contribute to mapping efforts."
+  }
+]

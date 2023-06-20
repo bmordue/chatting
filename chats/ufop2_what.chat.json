@@ -1,10 +1,10 @@
 [
-    {
-        "role": "user",
-        "content": "what is  ufopedia rule set?"
-    },
-    {
-        "role": "assistant",
-        "content": "The UFOPedia rule set refers to the set of rules and guidelines that govern the content and information presented in the UFOPedia, the in-game encyclopedia or database in the XCOM series of video games. The UFOPedia provides players with information on various aspects of the game, including game mechanics, research, technologies, equipment, aliens, and strategies. The rule set ensures consistency in the information displayed, the structure of the data, and the overall user experience when accessing and utilizing the UFOPedia."
-    }
+  {
+    "role": "user",
+    "content": "what is  ufopedia rule set?"
+  },
+  {
+    "role": "assistant",
+    "content": "The UFOPedia rule set refers to the set of rules and guidelines that govern the content and information presented in the UFOPedia, the in-game encyclopedia or database in the XCOM series of video games. The UFOPedia provides players with information on various aspects of the game, including game mechanics, research, technologies, equipment, aliens, and strategies. The rule set ensures consistency in the information displayed, the structure of the data, and the overall user experience when accessing and utilizing the UFOPedia."
+  }
 ]

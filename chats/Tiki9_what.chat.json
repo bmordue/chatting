@@ -1,10 +1,10 @@
 [
-    {
-        "role": "user",
-        "content": "what is  Tiki coasters?"
-    },
-    {
-        "role": "assistant",
-        "content": "Tiki coasters are small flat mats or discs that are used to place drinks on to prevent any damage or marks on surfaces. They typically feature designs inspired by Polynesian or tropical themes, such as tiki masks, palm trees, or hula dancers. Tiki coasters are often made from materials like bamboo, cork, or ceramic, and are popular for use in Tiki bars, tropical-themed parties, or for adding a touch of island ambiance to any home decor."
-    }
+  {
+    "role": "user",
+    "content": "what is  Tiki coasters?"
+  },
+  {
+    "role": "assistant",
+    "content": "Tiki coasters are small flat mats or discs that are used to place drinks on to prevent any damage or marks on surfaces. They typically feature designs inspired by Polynesian or tropical themes, such as tiki masks, palm trees, or hula dancers. Tiki coasters are often made from materials like bamboo, cork, or ceramic, and are popular for use in Tiki bars, tropical-themed parties, or for adding a touch of island ambiance to any home decor."
+  }
 ]

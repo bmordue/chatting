@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Japanese scheduled tour guides?"},{"role":"assistant","content":"Japanese scheduled tour guides are professional guides who accompany and lead groups of tourists on pre-planned itineraries in Japan. These guides are generally knowledgeable about the history, culture, and attractions of Japan and provide commentary and explanations to the tour participants throughout the journey. They ensure that the group follows the scheduled activities, timings, and transportation arrangements as per the planned itinerary. Japanese scheduled tour guides may work for travel agencies, tour companies, or tourist organizations and play a crucial role in enhancing the travel experience for tourists visiting Japan."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Japanese scheduled tour guides?"
+  },
+  {
+    "role": "assistant",
+    "content": "Japanese scheduled tour guides are professional guides who accompany and lead groups of tourists on pre-planned itineraries in Japan. These guides are generally knowledgeable about the history, culture, and attractions of Japan and provide commentary and explanations to the tour participants throughout the journey. They ensure that the group follows the scheduled activities, timings, and transportation arrangements as per the planned itinerary. Japanese scheduled tour guides may work for travel agencies, tour companies, or tourist organizations and play a crucial role in enhancing the travel experience for tourists visiting Japan."
+  }
+]

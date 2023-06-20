@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  hotosm: link to profile from 'me' menu?"},{"role":"assistant","content":"No, there is no specific feature in HOTOSM (Humanitarian OpenStreetMap Team) that allows linking to a profile from the 'me' menu. The 'me' menu typically contains information related to the user's settings, preferences, or account details, but it does not provide a direct link to a user's profile. However, depending on the context and platform where HOTOSM is being used, it is possible to navigate to a user's profile through different methods or within specific interfaces."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  hotosm: link to profile from 'me' menu?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, there is no specific feature in HOTOSM (Humanitarian OpenStreetMap Team) that allows linking to a profile from the 'me' menu. The 'me' menu typically contains information related to the user's settings, preferences, or account details, but it does not provide a direct link to a user's profile. However, depending on the context and platform where HOTOSM is being used, it is possible to navigate to a user's profile through different methods or within specific interfaces."
+  }
+]

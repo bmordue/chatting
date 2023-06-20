@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  t-shirts: \\\"How ironic.\\\" \\\";-)\\\"?"},{"role":"assistant","content":"Yes, there are t-shirts available with the phrase \"How ironic\" accompanied by a winking smiley face emoji \";-)\". It is fairly common for people to wear t-shirts with humorous or ironic statements, so it's possible to find such shirts for purchase online or in stores."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  t-shirts: \\\"How ironic.\\\" \\\";-)\\\"?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are t-shirts available with the phrase \"How ironic\" accompanied by a winking smiley face emoji \";-)\". It is fairly common for people to wear t-shirts with humorous or ironic statements, so it's possible to find such shirts for purchase online or in stores."
+  }
+]

@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  python (flask? pyramid?) web app?"},{"role":"assistant","content":"Yes, there is such a thing as a Python web app using frameworks like Flask or Pyramid. These frameworks allow developers to build web applications using the Python programming language. Flask is a popular micro-framework that is lightweight and easy to get started with, while Pyramid is a more feature-rich framework that follows a component-based architecture. Both frameworks provide the necessary tools and libraries to develop web applications using Python."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  python (flask? pyramid?) web app?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there is such a thing as a Python web app using frameworks like Flask or Pyramid. These frameworks allow developers to build web applications using the Python programming language. Flask is a popular micro-framework that is lightweight and easy to get started with, while Pyramid is a more feature-rich framework that follows a component-based architecture. Both frameworks provide the necessary tools and libraries to develop web applications using Python."
+  }
+]

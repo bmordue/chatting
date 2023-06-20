@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Japanese scheduled tour guides?"},{"role":"assistant","content":"Yes, there are Japanese scheduled tour guides who provide pre-planned tours for tourists visiting different destinations. These tour guides work for travel agencies or tour companies and are responsible for organizing and leading groups of travelers on specific itineraries. They may have fixed schedules, predetermined activities, and a set duration for each tour. These scheduled tour guides help visitors explore popular attractions, provide information about the destinations, and ensure a smooth and enjoyable travel experience."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Japanese scheduled tour guides?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are Japanese scheduled tour guides who provide pre-planned tours for tourists visiting different destinations. These tour guides work for travel agencies or tour companies and are responsible for organizing and leading groups of travelers on specific itineraries. They may have fixed schedules, predetermined activities, and a set duration for each tour. These scheduled tour guides help visitors explore popular attractions, provide information about the destinations, and ensure a smooth and enjoyable travel experience."
+  }
+]

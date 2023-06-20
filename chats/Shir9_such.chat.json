@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Shirt sewing pattern?"},{"role":"assistant","content":"Yes, there are many shirt sewing patterns available. These patterns typically include instructions, measurements, and diagrams to help you create your own custom-fitted shirt. They come in different styles and sizes, allowing you to make shirts for men, women, and children. You can find shirt sewing patterns in craft stores, fabric shops, or online marketplaces."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Shirt sewing pattern?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are many shirt sewing patterns available. These patterns typically include instructions, measurements, and diagrams to help you create your own custom-fitted shirt. They come in different styles and sizes, allowing you to make shirts for men, women, and children. You can find shirt sewing patterns in craft stores, fabric shops, or online marketplaces."
+  }
+]

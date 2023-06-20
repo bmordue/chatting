@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  use static camera for astrophotography?"},{"role":"assistant","content":"Yes, there is such a thing as using a static camera for astrophotography. This technique is commonly known as \"fixed tripod\" or \"single-exposure\" astrophotography. In this method, a camera is mounted on a sturdy tripod and an exposure is taken of the night sky without any tracking or movement. This technique can capture wide-angle shots of the stars, constellations, or landscapes with the night sky as a backdrop. However, it is not suitable for capturing detailed images of deep-sky objects like galaxies or nebulae."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  use static camera for astrophotography?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there is such a thing as using a static camera for astrophotography. This technique is commonly known as \"fixed tripod\" or \"single-exposure\" astrophotography. In this method, a camera is mounted on a sturdy tripod and an exposure is taken of the night sky without any tracking or movement. This technique can capture wide-angle shots of the stars, constellations, or landscapes with the night sky as a backdrop. However, it is not suitable for capturing detailed images of deep-sky objects like galaxies or nebulae."
+  }
+]

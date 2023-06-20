@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Steam wishlist -> cheapshark?"},{"role":"assistant","content":"Steam Wishlist is a feature on the Steam platform where users can save and track the games they are interested in purchasing. It allows them to create a list of desired games and receive notifications when those games go on sale.\n\nCheapShark, on the other hand, is a website that tracks game prices from various digital stores, including Steam, and helps users find the best deals available. It compares prices across different platforms and provides information on historical price changes, allowing users to make informed purchasing decisions and potentially save money on their desired games. CheapShark can be used alongside a Steam Wishlist to monitor and find discounted prices for games that users have added to their wishlist."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Steam wishlist -> cheapshark?"
+  },
+  {
+    "role": "assistant",
+    "content": "Steam Wishlist is a feature on the Steam platform where users can save and track the games they are interested in purchasing. It allows them to create a list of desired games and receive notifications when those games go on sale.\n\nCheapShark, on the other hand, is a website that tracks game prices from various digital stores, including Steam, and helps users find the best deals available. It compares prices across different platforms and provides information on historical price changes, allowing users to make informed purchasing decisions and potentially save money on their desired games. CheapShark can be used alongside a Steam Wishlist to monitor and find discounted prices for games that users have added to their wishlist."
+  }
+]

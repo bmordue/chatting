@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  annotated Beeton (eg as wiki)?"},{"role":"assistant","content":"Yes, there is an annotated version of Mrs. Beeton's Book of Household Management available on websites like Wikisource. An annotated edition typically includes additional explanatory notes, comments, and references alongside the original text of the book in order to provide more context and understanding to the readers. These annotations can help readers better comprehend the historical significance, cultural aspects, and practical advice present in the original work."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  annotated Beeton (eg as wiki)?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there is an annotated version of Mrs. Beeton's Book of Household Management available on websites like Wikisource. An annotated edition typically includes additional explanatory notes, comments, and references alongside the original text of the book in order to provide more context and understanding to the readers. These annotations can help readers better comprehend the historical significance, cultural aspects, and practical advice present in the original work."
+  }
+]

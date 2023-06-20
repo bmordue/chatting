@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Edinburgh wimmelbuch?"},{"role":"assistant","content":"Yes, there is a book called \"Edinburgh Wimmelbuch.\" It is a children's activity book that features detailed illustrations of various scenes in Edinburgh, Scotland. Wimmelbuch is a German term for a type of picture book that is filled with busy, colorful illustrations, often depicting city or everyday life scenes, where children can search for hidden objects or characters."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Edinburgh wimmelbuch?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there is a book called \"Edinburgh Wimmelbuch.\" It is a children's activity book that features detailed illustrations of various scenes in Edinburgh, Scotland. Wimmelbuch is a German term for a type of picture book that is filled with busy, colorful illustrations, often depicting city or everyday life scenes, where children can search for hidden objects or characters."
+  }
+]

@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  OPDS catalog from S3 bucket?"},{"role":"assistant","content":"OPDS (Open Publication Distribution System) is a standard that allows the distribution and discovery of eBooks in a consistent manner. An OPDS catalog is a collection of metadata about eBooks, including information like title, author, publication date, and download links. It can be hosted on a server or stored in a specific format, such as an S3 bucket.\n\nAn S3 bucket is a storage resource provided by Amazon Web Services (AWS). It is a simple storage service that allows you to store and retrieve any amount of data from anywhere on the web. In the context of an OPDS catalog, an S3 bucket can be used to store the catalog files and provide access to them.\n\nSo, an OPDS catalog from an S3 bucket refers to an OPDS catalog that is stored in an S3 bucket in AWS, making it accessible over the internet for distribution and discovery of eBooks."}]
+[
+  {
+    "role": "user",
+    "content": "what is  OPDS catalog from S3 bucket?"
+  },
+  {
+    "role": "assistant",
+    "content": "OPDS (Open Publication Distribution System) is a standard that allows the distribution and discovery of eBooks in a consistent manner. An OPDS catalog is a collection of metadata about eBooks, including information like title, author, publication date, and download links. It can be hosted on a server or stored in a specific format, such as an S3 bucket.\n\nAn S3 bucket is a storage resource provided by Amazon Web Services (AWS). It is a simple storage service that allows you to store and retrieve any amount of data from anywhere on the web. In the context of an OPDS catalog, an S3 bucket can be used to store the catalog files and provide access to them.\n\nSo, an OPDS catalog from an S3 bucket refers to an OPDS catalog that is stored in an S3 bucket in AWS, making it accessible over the internet for distribution and discovery of eBooks."
+  }
+]

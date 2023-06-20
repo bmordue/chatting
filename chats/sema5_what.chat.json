@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  semacode t-shirts (cf existing ones)?"},{"role":"assistant","content":"Semacode t-shirts are a type of clothing that feature a semacode, which is a two-dimensional barcode, printed or incorporated into the design of the shirt. These semacodes can be scanned by smartphones or barcode scanners, and they contain embedded information such as website URLs, text messages, contact information, or other digital content.\n\nCompared to existing barcode t-shirts, semacode t-shirts offer the advantage of having a more secure and compact design. They can store more information in a smaller space and have a higher data density compared to traditional barcodes. Semacodes also have the ability to connect directly to the digital world and provide instant access to online content, making them interactive and engaging."}]
+[
+  {
+    "role": "user",
+    "content": "what is  semacode t-shirts (cf existing ones)?"
+  },
+  {
+    "role": "assistant",
+    "content": "Semacode t-shirts are a type of clothing that feature a semacode, which is a two-dimensional barcode, printed or incorporated into the design of the shirt. These semacodes can be scanned by smartphones or barcode scanners, and they contain embedded information such as website URLs, text messages, contact information, or other digital content.\n\nCompared to existing barcode t-shirts, semacode t-shirts offer the advantage of having a more secure and compact design. They can store more information in a smaller space and have a higher data density compared to traditional barcodes. Semacodes also have the ability to connect directly to the digital world and provide instant access to online content, making them interactive and engaging."
+  }
+]

@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Link from mapswipe to hot tm2?"},{"role":"assistant","content":"Mapswipe is a mobile app where volunteers swipe through satellite imagery to identify and map areas of interest. The data collected through Mapswipe is then used in other platforms such as HOT Tasking Manager 2 (TM2).\n\nHOT TM2 is a crowdsourcing platform that allows volunteers to contribute to mapping tasks for humanitarian projects. Once the data is collected and validated through Mapswipe, it can be exported and imported into HOT TM2. This data will then be used for various mapping projects in order to support important initiatives like disaster response, health service planning, and infrastructure development in vulnerable areas."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Link from mapswipe to hot tm2?"
+  },
+  {
+    "role": "assistant",
+    "content": "Mapswipe is a mobile app where volunteers swipe through satellite imagery to identify and map areas of interest. The data collected through Mapswipe is then used in other platforms such as HOT Tasking Manager 2 (TM2).\n\nHOT TM2 is a crowdsourcing platform that allows volunteers to contribute to mapping tasks for humanitarian projects. Once the data is collected and validated through Mapswipe, it can be exported and imported into HOT TM2. This data will then be used for various mapping projects in order to support important initiatives like disaster response, health service planning, and infrastructure development in vulnerable areas."
+  }
+]

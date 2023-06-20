@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  'social' code comments?"},{"role":"assistant","content":"Yes, there is such a thing as \"social\" code comments. Social code comments are comments that aim to enhance the readability and understandability of the code for other developers who might work on the codebase. These comments are not strictly technical but can include explanations, clarifications, or warnings that help communicate the intent or purpose of the code.\n\nSocial code comments may provide information about the overall design or architecture of the code, potential pitfalls or gotchas, suggestions or recommendations for improvements, references to related documentation or resources, or simply thanking or acknowledging fellow developers.\n\nThe primary purpose of social code comments is to promote collaboration, knowledge sharing, and maintainability within a development team. They can be particularly helpful for codebases with multiple contributors, as they facilitate understanding and ease the learning curve for newcomers or developers working on unfamiliar parts of the code."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  'social' code comments?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there is such a thing as \"social\" code comments. Social code comments are comments that aim to enhance the readability and understandability of the code for other developers who might work on the codebase. These comments are not strictly technical but can include explanations, clarifications, or warnings that help communicate the intent or purpose of the code.\n\nSocial code comments may provide information about the overall design or architecture of the code, potential pitfalls or gotchas, suggestions or recommendations for improvements, references to related documentation or resources, or simply thanking or acknowledging fellow developers.\n\nThe primary purpose of social code comments is to promote collaboration, knowledge sharing, and maintainability within a development team. They can be particularly helpful for codebases with multiple contributors, as they facilitate understanding and ease the learning curve for newcomers or developers working on unfamiliar parts of the code."
+  }
+]

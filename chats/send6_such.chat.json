@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  send hContact microformat to google contacts (chrome extension)?"},{"role":"assistant","content":"Yes, there are Chrome extensions available that allow you to send hContact microformats to Google Contacts. Some examples include \"h-Contacts Extractor\" and \"h2vcard\". These extensions can extract hContact microformats from a webpage and send them directly to your Google Contacts."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  send hContact microformat to google contacts (chrome extension)?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are Chrome extensions available that allow you to send hContact microformats to Google Contacts. Some examples include \"h-Contacts Extractor\" and \"h2vcard\". These extensions can extract hContact microformats from a webpage and send them directly to your Google Contacts."
+  }
+]

@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  CalDAV VTODO web client as SPA?"},{"role":"assistant","content":"Yes, there are CalDAV VTODO web clients available that are built as Single Page Applications (SPA). These web clients offer a modern and interactive user interface and utilize technologies like JavaScript frameworks (such as Vue.js, React.js, or Angular) to provide a dynamic user experience. Some examples of CalDAV VTODO web clients implemented as SPAs include \"Nextcloud Calendar,\" \"OpenTasks,\" and \"Radicale.\" These applications allow users to manage their tasks and to-do lists using CalDAV standard through a web-based interface."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  CalDAV VTODO web client as SPA?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are CalDAV VTODO web clients available that are built as Single Page Applications (SPA). These web clients offer a modern and interactive user interface and utilize technologies like JavaScript frameworks (such as Vue.js, React.js, or Angular) to provide a dynamic user experience. Some examples of CalDAV VTODO web clients implemented as SPAs include \"Nextcloud Calendar,\" \"OpenTasks,\" and \"Radicale.\" These applications allow users to manage their tasks and to-do lists using CalDAV standard through a web-based interface."
+  }
+]

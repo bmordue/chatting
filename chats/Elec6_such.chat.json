@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Electron?"},{"role":"assistant","content":"Yes, Electron is a framework created by GitHub that allows for the development of desktop applications using web technologies such as HTML, CSS, and JavaScript. It enables developers to build cross-platform applications using a single codebase. Electron has gained popularity and is used by various popular applications like Visual Studio Code, Slack, and GitHub's own desktop application."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Electron?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, Electron is a framework created by GitHub that allows for the development of desktop applications using web technologies such as HTML, CSS, and JavaScript. It enables developers to build cross-platform applications using a single codebase. Electron has gained popularity and is used by various popular applications like Visual Studio Code, Slack, and GitHub's own desktop application."
+  }
+]

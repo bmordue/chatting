@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Yoga apps...?"},{"role":"assistant","content":"Yes, there are many yoga apps available for both iPhone and Android devices. These apps provide guided yoga sessions, pose tutorials, and customizable workout plans to help users practice yoga at their convenience. Some popular yoga apps include \"Yoga Studio,\" \"Daily Yoga,\" \"Down Dog,\" \"Glo,\" and \"Asana Rebel.\""}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Yoga apps...?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are many yoga apps available for both iPhone and Android devices. These apps provide guided yoga sessions, pose tutorials, and customizable workout plans to help users practice yoga at their convenience. Some popular yoga apps include \"Yoga Studio,\" \"Daily Yoga,\" \"Down Dog,\" \"Glo,\" and \"Asana Rebel.\""
+  }
+]

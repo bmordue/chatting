@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  for each starred repo?"},{"role":"assistant","content":"Yes, there is a feature on the platform GitHub called \"Watch\" that allows users to receive notifications for activities (like commits, pull requests, etc.) on repositories. By starring a repository, users can choose to watch and receive updates on that specific repository."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  for each starred repo?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there is a feature on the platform GitHub called \"Watch\" that allows users to receive notifications for activities (like commits, pull requests, etc.) on repositories. By starring a repository, users can choose to watch and receive updates on that specific repository."
+  }
+]

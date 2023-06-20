@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Ghost theme/widget?"},{"role":"assistant","content":"Yes, there are both Ghost themes and widgets available. Ghost is a popular open-source platform for creating and publishing blogs or websites. It supports a wide range of themes and widgets that can be used to customize the appearance and functionality of a Ghost site. Many themes and widgets are available for free, while some premium options may also be available for purchase. These themes and widgets can be used to modify various aspects of a Ghost site, including its layout, design, typography, and additional features."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Ghost theme/widget?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are both Ghost themes and widgets available. Ghost is a popular open-source platform for creating and publishing blogs or websites. It supports a wide range of themes and widgets that can be used to customize the appearance and functionality of a Ghost site. Many themes and widgets are available for free, while some premium options may also be available for purchase. These themes and widgets can be used to modify various aspects of a Ghost site, including its layout, design, typography, and additional features."
+  }
+]

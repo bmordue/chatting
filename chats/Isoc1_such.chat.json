@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Isochrones from home?"},{"role":"assistant","content":"Yes, there are tools and applications available that allow you to generate isochrones from your home or any specific location. Isochrones are lines on a map that represent equal travel time or distance from a specific point. These tools use mapping data and algorithms to calculate and visualize the areas that can be reached within a certain travel time or distance.\n\nSome popular mapping platforms like Google Maps or OpenStreetMap offer isochrone features that can be used from home. Additionally, there are specialized websites and applications dedicated to generating isochrones, such as Geoapify, Mapbox, or TravelTime Platform. These tools often provide various customization options and additional features to help you visualize and analyze travel times from any location."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Isochrones from home?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are tools and applications available that allow you to generate isochrones from your home or any specific location. Isochrones are lines on a map that represent equal travel time or distance from a specific point. These tools use mapping data and algorithms to calculate and visualize the areas that can be reached within a certain travel time or distance.\n\nSome popular mapping platforms like Google Maps or OpenStreetMap offer isochrone features that can be used from home. Additionally, there are specialized websites and applications dedicated to generating isochrones, such as Geoapify, Mapbox, or TravelTime Platform. These tools often provide various customization options and additional features to help you visualize and analyze travel times from any location."
+  }
+]

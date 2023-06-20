@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  \\\"Caution: Contents May Be Hot\\\" t-shirt (cf existing ones)?"},{"role":"assistant","content":"Yes, there are t-shirts that feature the phrase \"Caution: Contents May Be Hot\" or similar variations. These t-shirts often include a graphic or text referencing hot coffee or hot beverages as a humorous or ironic statement. They are typically designed as a reference to warning labels seen on coffee cups or fast food containers. You can find such t-shirts in various online stores, clothing retailers, or specialty shops that sell novelty or funny t-shirts."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  \\\"Caution: Contents May Be Hot\\\" t-shirt (cf existing ones)?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are t-shirts that feature the phrase \"Caution: Contents May Be Hot\" or similar variations. These t-shirts often include a graphic or text referencing hot coffee or hot beverages as a humorous or ironic statement. They are typically designed as a reference to warning labels seen on coffee cups or fast food containers. You can find such t-shirts in various online stores, clothing retailers, or specialty shops that sell novelty or funny t-shirts."
+  }
+]

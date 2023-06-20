@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  \\\"autotour\\\" guides based on wikipedia entries??"},{"role":"assistant","content":"Yes, there are auto-tour guides available that are based on Wikipedia entries. These guides use information from Wikipedia articles to provide users with audio or written tour commentary as they navigate through a certain location or tourist attraction. These guides often utilize GPS technology to determine the user's location and provide relevant information from Wikipedia about nearby landmarks, historical sites, or points of interest."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  \\\"autotour\\\" guides based on wikipedia entries??"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are auto-tour guides available that are based on Wikipedia entries. These guides use information from Wikipedia articles to provide users with audio or written tour commentary as they navigate through a certain location or tourist attraction. These guides often utilize GPS technology to determine the user's location and provide relevant information from Wikipedia about nearby landmarks, historical sites, or points of interest."
+  }
+]

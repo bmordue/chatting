@@ -1,10 +1,10 @@
 [
-    {
-        "role": "user",
-        "content": "what is  use static camera for astrophotography?"
-    },
-    {
-        "role": "assistant",
-        "content": "A static camera is commonly used in astrophotography to capture long-exposure images of celestial objects such as stars, galaxies, and nebulae. By keeping the camera fixed on a tripod or mount, it avoids any movement or shake that could blur or distort the image during the long exposure. The static camera allows for capturing a higher amount of light over an extended period, resulting in more detailed and vivid images of the night sky. Additionally, it enables photographers to experiment with different techniques like star trails or capturing multiple exposures to later combine into a single composite image."
-    }
+  {
+    "role": "user",
+    "content": "what is  use static camera for astrophotography?"
+  },
+  {
+    "role": "assistant",
+    "content": "A static camera is commonly used in astrophotography to capture long-exposure images of celestial objects such as stars, galaxies, and nebulae. By keeping the camera fixed on a tripod or mount, it avoids any movement or shake that could blur or distort the image during the long exposure. The static camera allows for capturing a higher amount of light over an extended period, resulting in more detailed and vivid images of the night sky. Additionally, it enables photographers to experiment with different techniques like star trails or capturing multiple exposures to later combine into a single composite image."
+  }
 ]

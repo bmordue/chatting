@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  MOOC: intro to the private space industry ?"},{"role":"assistant","content":"MOOC stands for Massive Open Online Course, which is an online course that can be accessed by anyone around the world for free. \"Intro to the private space industry\" is a specific MOOC that provides an introduction to the private space industry. It likely covers various topics such as the history and development of private space companies, their role in space exploration and commercialization, technology advancements, business models, and potential future developments in the industry."}]
+[
+  {
+    "role": "user",
+    "content": "what is  MOOC: intro to the private space industry ?"
+  },
+  {
+    "role": "assistant",
+    "content": "MOOC stands for Massive Open Online Course, which is an online course that can be accessed by anyone around the world for free. \"Intro to the private space industry\" is a specific MOOC that provides an introduction to the private space industry. It likely covers various topics such as the history and development of private space companies, their role in space exploration and commercialization, technology advancements, business models, and potential future developments in the industry."
+  }
+]

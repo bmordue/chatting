@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Mirakel: import from GTasks option?"},{"role":"assistant","content":"Mirakel is a task management app for Android devices. The \"import from GTasks\" option in Mirakel allows users to import their tasks and task lists from the GTasks app into Mirakel. This feature enables users to transfer their existing tasks and lists without having to manually recreate them in Mirakel."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Mirakel: import from GTasks option?"
+  },
+  {
+    "role": "assistant",
+    "content": "Mirakel is a task management app for Android devices. The \"import from GTasks\" option in Mirakel allows users to import their tasks and task lists from the GTasks app into Mirakel. This feature enables users to transfer their existing tasks and lists without having to manually recreate them in Mirakel."
+  }
+]

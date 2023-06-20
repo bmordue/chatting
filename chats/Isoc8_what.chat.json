@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Isochrones from home?"},{"role":"assistant","content":"Isochrones from home typically refers to the process of generating isochrone maps or polygons using an online mapping tool or software from the comfort of one's home or office. Isochrones are distance-based visual representations that show areas that can be reached within a given time frame from a specific location. For example, an isochrone map can display the areas that can be reached within a 30-minute drive from a person's residence. This information can be useful for various purposes, such as planning commuting routes, determining service areas, or analyzing accessibility to certain amenities or facilities."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Isochrones from home?"
+  },
+  {
+    "role": "assistant",
+    "content": "Isochrones from home typically refers to the process of generating isochrone maps or polygons using an online mapping tool or software from the comfort of one's home or office. Isochrones are distance-based visual representations that show areas that can be reached within a given time frame from a specific location. For example, an isochrone map can display the areas that can be reached within a 30-minute drive from a person's residence. This information can be useful for various purposes, such as planning commuting routes, determining service areas, or analyzing accessibility to certain amenities or facilities."
+  }
+]

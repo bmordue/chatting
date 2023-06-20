@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Acrylic on board \\\"flash cards\\\"??"},{"role":"assistant","content":"Yes, there are acrylic flash cards available. They are typically made by printing or painting on acrylic sheets or boards. These flash cards are designed to be durable and long-lasting, allowing for easy erasing and reuse. You can find acrylic flash cards in various sizes and formats, such as alphabet flash cards, number flash cards, or even custom-made flash cards for specific subjects or languages."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Acrylic on board \\\"flash cards\\\"??"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are acrylic flash cards available. They are typically made by printing or painting on acrylic sheets or boards. These flash cards are designed to be durable and long-lasting, allowing for easy erasing and reuse. You can find acrylic flash cards in various sizes and formats, such as alphabet flash cards, number flash cards, or even custom-made flash cards for specific subjects or languages."
+  }
+]

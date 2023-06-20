@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  CNC-carved wooden relief -- eg on box/cabinet panel; landscape relief?"},{"role":"assistant","content":"Yes, there is such a thing as CNC-carved wooden relief. CNC (Computer Numerical Control) machines can be used to carve intricate designs and patterns into wood, including landscapes, on various surfaces such as box or cabinet panels. These machines use computer-aided design (CAD) software to create precise and detailed carvings on wooden materials. This technology allows for precise control over the carving process, resulting in intricate and high-quality relief designs on wood."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  CNC-carved wooden relief -- eg on box/cabinet panel; landscape relief?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there is such a thing as CNC-carved wooden relief. CNC (Computer Numerical Control) machines can be used to carve intricate designs and patterns into wood, including landscapes, on various surfaces such as box or cabinet panels. These machines use computer-aided design (CAD) software to create precise and detailed carvings on wooden materials. This technology allows for precise control over the carving process, resulting in intricate and high-quality relief designs on wood."
+  }
+]

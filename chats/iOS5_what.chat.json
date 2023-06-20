@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  iOS client for tt-rss?"},{"role":"assistant","content":"The iOS client for Tiny Tiny RSS (tt-rss) is called \"Fiery Feeds.\" It is a popular RSS reader app for iOS devices that supports syncing with tt-rss servers. With Fiery Feeds, users can access and read their feed subscriptions from their tt-rss installation on their iPhone or iPad."}]
+[
+  {
+    "role": "user",
+    "content": "what is  iOS client for tt-rss?"
+  },
+  {
+    "role": "assistant",
+    "content": "The iOS client for Tiny Tiny RSS (tt-rss) is called \"Fiery Feeds.\" It is a popular RSS reader app for iOS devices that supports syncing with tt-rss servers. With Fiery Feeds, users can access and read their feed subscriptions from their tt-rss installation on their iPhone or iPad."
+  }
+]

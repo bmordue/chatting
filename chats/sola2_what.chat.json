@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  solar-water-heating tiles?"},{"role":"assistant","content":"Solar-water-heating tiles are specially designed roofing tiles that incorporate solar thermal technology to harness sunlight and heat water. These tiles are typically made of materials such as glass or clay and have a dark-colored surface that absorbs solar radiation. Beneath the surface of the tile, there are channels or tubes filled with a heat transfer fluid, which absorbs the heat from the sun. The fluid then circulates through a system and transfers the collected heat to a water tank or heating system in a building, effectively heating the water. Solar-water-heating tiles are an alternative to traditional solar panels for generating solar thermal energy specifically for water heating purposes, while also serving as a functional roofing material."}]
+[
+  {
+    "role": "user",
+    "content": "what is  solar-water-heating tiles?"
+  },
+  {
+    "role": "assistant",
+    "content": "Solar-water-heating tiles are specially designed roofing tiles that incorporate solar thermal technology to harness sunlight and heat water. These tiles are typically made of materials such as glass or clay and have a dark-colored surface that absorbs solar radiation. Beneath the surface of the tile, there are channels or tubes filled with a heat transfer fluid, which absorbs the heat from the sun. The fluid then circulates through a system and transfers the collected heat to a water tank or heating system in a building, effectively heating the water. Solar-water-heating tiles are an alternative to traditional solar panels for generating solar thermal energy specifically for water heating purposes, while also serving as a functional roofing material."
+  }
+]

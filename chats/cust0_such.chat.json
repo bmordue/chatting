@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  custom cabling eg candy cane?"},{"role":"assistant","content":"Yes, there is such a thing as custom cabling, including unique shapes like candy cane cables. Custom cabling is often used in specialized applications to meet specific design or functional requirements. Whether it is for aesthetic purposes or specific cable routing needs, manufacturers or custom cable shops can produce cables with various shapes, sizes, and configurations based on customer requirements."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  custom cabling eg candy cane?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there is such a thing as custom cabling, including unique shapes like candy cane cables. Custom cabling is often used in specialized applications to meet specific design or functional requirements. Whether it is for aesthetic purposes or specific cable routing needs, manufacturers or custom cable shops can produce cables with various shapes, sizes, and configurations based on customer requirements."
+  }
+]

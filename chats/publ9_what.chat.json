@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  public domain/CC licensed sports footage (or speeches?"},{"role":"assistant","content":"Public domain sports footage or speeches are those that are not protected by copyright or where the copyright has expired, allowing them to be used freely without permission or payment. Creative Commons (CC) licensed sports footage or speeches are those that have been made available by the copyright holder under a specific CC license, which allows certain permissions or restrictions on how the content can be used, shared, or modified. These licenses are more flexible than traditional copyright and provide creators with more control over their work while still allowing others to use it within certain guidelines."}]
+[
+  {
+    "role": "user",
+    "content": "what is  public domain/CC licensed sports footage (or speeches?"
+  },
+  {
+    "role": "assistant",
+    "content": "Public domain sports footage or speeches are those that are not protected by copyright or where the copyright has expired, allowing them to be used freely without permission or payment. Creative Commons (CC) licensed sports footage or speeches are those that have been made available by the copyright holder under a specific CC license, which allows certain permissions or restrictions on how the content can be used, shared, or modified. These licenses are more flexible than traditional copyright and provide creators with more control over their work while still allowing others to use it within certain guidelines."
+  }
+]

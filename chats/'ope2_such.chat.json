@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  'open' comments - server + browser extension to Speedwell allow comments on any page?"},{"role":"assistant","content":"There is no specific browser extension or server configuration called \"Open Comments - Speedwell\" that I am aware of. However, there are several browser extensions and online services that allow users to leave comments on any webpage. Some examples of such extensions include Disqus, CommentBox, and CommentSave. These extensions enable users to leave comments and have discussions on various webpages. It's important to note that the availability and functionality of these extensions may vary depending on the browser you are using."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  'open' comments - server + browser extension to Speedwell allow comments on any page?"
+  },
+  {
+    "role": "assistant",
+    "content": "There is no specific browser extension or server configuration called \"Open Comments - Speedwell\" that I am aware of. However, there are several browser extensions and online services that allow users to leave comments on any webpage. Some examples of such extensions include Disqus, CommentBox, and CommentSave. These extensions enable users to leave comments and have discussions on various webpages. It's important to note that the availability and functionality of these extensions may vary depending on the browser you are using."
+  }
+]

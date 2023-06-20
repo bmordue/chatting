@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Stock photo undersupplied themes ?"},{"role":"assistant","content":"Yes, there can be stock photo undersupplied themes. Stock photography agencies usually have a wide range of images available for various topics and themes. However, certain niche or specific themes may have a limited number of options or may not be as well-represented compared to more popular or mainstream subjects. These undersupplied themes can include specific industries, cultural events, lesser-known locations, or unique concepts."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Stock photo undersupplied themes ?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there can be stock photo undersupplied themes. Stock photography agencies usually have a wide range of images available for various topics and themes. However, certain niche or specific themes may have a limited number of options or may not be as well-represented compared to more popular or mainstream subjects. These undersupplied themes can include specific industries, cultural events, lesser-known locations, or unique concepts."
+  }
+]

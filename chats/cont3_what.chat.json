@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  contacts matrix?"},{"role":"assistant","content":"A contacts matrix is a tool used in project management to organize and categorize the various stakeholders or individuals who are involved in a project. It typically includes information such as names, roles, departments, contact details, and any other relevant information about each person. The contacts matrix helps in mapping out the relationships and communication channels between different stakeholders and aids in maintaining effective communication throughout the project."}]
+[
+  {
+    "role": "user",
+    "content": "what is  contacts matrix?"
+  },
+  {
+    "role": "assistant",
+    "content": "A contacts matrix is a tool used in project management to organize and categorize the various stakeholders or individuals who are involved in a project. It typically includes information such as names, roles, departments, contact details, and any other relevant information about each person. The contacts matrix helps in mapping out the relationships and communication channels between different stakeholders and aids in maintaining effective communication throughout the project."
+  }
+]

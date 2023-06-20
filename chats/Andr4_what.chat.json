@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Android: backup to aws ?"},{"role":"assistant","content":"Android: backup to AWS refers to the process of backing up the data of an Android device to the Amazon Web Services (AWS) cloud storage platform. It allows Android users to securely store their device data, including app settings, app data, call history, contacts, and other important information, within the AWS infrastructure.\n\nBy leveraging AWS for backups, Android users can ensure their data is protected and easily restorable in case of device loss, damage, or accidental deletion. AWS offers reliable and scalable cloud storage solutions, enabling efficient backup and restoration processes for Android users."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Android: backup to aws ?"
+  },
+  {
+    "role": "assistant",
+    "content": "Android: backup to AWS refers to the process of backing up the data of an Android device to the Amazon Web Services (AWS) cloud storage platform. It allows Android users to securely store their device data, including app settings, app data, call history, contacts, and other important information, within the AWS infrastructure.\n\nBy leveraging AWS for backups, Android users can ensure their data is protected and easily restorable in case of device loss, damage, or accidental deletion. AWS offers reliable and scalable cloud storage solutions, enabling efficient backup and restoration processes for Android users."
+  }
+]

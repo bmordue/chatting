@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Alexa skills: task warriorNTY4\\\"?"},{"role":"assistant","content":"Alexa skills refer to voice-controlled capabilities that Amazon's virtual assistant, Alexa, can perform. Taskwarrior is an open-source command-line task management tool that allows users to manage their to-do lists and track tasks. It provides features such as adding, modifying, and tracking tasks. Therefore, \"Alexa skills: task warrior\" would likely refer to an integration or skill developed for Alexa, allowing users to interact with their Taskwarrior tasks using voice commands through the Alexa device."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Alexa skills: task warriorNTY4\\\"?"
+  },
+  {
+    "role": "assistant",
+    "content": "Alexa skills refer to voice-controlled capabilities that Amazon's virtual assistant, Alexa, can perform. Taskwarrior is an open-source command-line task management tool that allows users to manage their to-do lists and track tasks. It provides features such as adding, modifying, and tracking tasks. Therefore, \"Alexa skills: task warrior\" would likely refer to an integration or skill developed for Alexa, allowing users to interact with their Taskwarrior tasks using voice commands through the Alexa device."
+  }
+]

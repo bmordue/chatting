@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  WYSIWYG Carto editor?"},{"role":"assistant","content":"Yes, there are several WYSIWYG (What You See Is What You Get) carto editors available. These editors allow users to design and customize maps visually without any coding or technical knowledge. Some popular WYSIWYG carto editors include:\n\n1. Mapbox Studio: Mapbox Studio offers a powerful WYSIWYG editor for creating custom maps. It provides various tools and features to style and design maps using drag-and-drop functionality.\n\n2. Carto Builder: Carto Builder is another WYSIWYG carto editor that enables users to create interactive maps by simply configuring options and settings through a visual interface.\n\n3. ArcGIS Online: ArcGIS Online by Esri has a map viewer with extensive WYSIWYG editing capabilities. It allows users to create, edit, and style maps using an intuitive graphical interface.\n\nThese editors offer a user-friendly approach to designing and customizing maps, making it easier for individuals and businesses to create visually appealing and interactive cartographic visualizations."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  WYSIWYG Carto editor?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are several WYSIWYG (What You See Is What You Get) carto editors available. These editors allow users to design and customize maps visually without any coding or technical knowledge. Some popular WYSIWYG carto editors include:\n\n1. Mapbox Studio: Mapbox Studio offers a powerful WYSIWYG editor for creating custom maps. It provides various tools and features to style and design maps using drag-and-drop functionality.\n\n2. Carto Builder: Carto Builder is another WYSIWYG carto editor that enables users to create interactive maps by simply configuring options and settings through a visual interface.\n\n3. ArcGIS Online: ArcGIS Online by Esri has a map viewer with extensive WYSIWYG editing capabilities. It allows users to create, edit, and style maps using an intuitive graphical interface.\n\nThese editors offer a user-friendly approach to designing and customizing maps, making it easier for individuals and businesses to create visually appealing and interactive cartographic visualizations."
+  }
+]

@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Jenkins plugin: add counts to tab header?"},{"role":"assistant","content":"The Jenkins plugin \"Add Counts to Tab Header\" is used to display the count of failed, skipped, and total test cases in the tab header of Jenkins test result pages. This plugin enhances the visibility of test results by providing a summary of the test cases directly in the tab header, making it easier for users to view the status of the tests without navigating to the detailed test result page."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Jenkins plugin: add counts to tab header?"
+  },
+  {
+    "role": "assistant",
+    "content": "The Jenkins plugin \"Add Counts to Tab Header\" is used to display the count of failed, skipped, and total test cases in the tab header of Jenkins test result pages. This plugin enhances the visibility of test results by providing a summary of the test cases directly in the tab header, making it easier for users to view the status of the tests without navigating to the detailed test result page."
+  }
+]

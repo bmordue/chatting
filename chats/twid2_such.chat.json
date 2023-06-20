@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  twidere: sync provider?"},{"role":"assistant","content":"Yes, Twidere does provide a sync provider feature. Twidere is an open-source social media app for Android that supports syncing Twitter and Mastodon accounts. The sync provider feature allows users to configure their accounts and synchronize their timelines, mentions, and direct messages on multiple devices. Users can also enable push notifications for real-time updates."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  twidere: sync provider?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, Twidere does provide a sync provider feature. Twidere is an open-source social media app for Android that supports syncing Twitter and Mastodon accounts. The sync provider feature allows users to configure their accounts and synchronize their timelines, mentions, and direct messages on multiple devices. Users can also enable push notifications for real-time updates."
+  }
+]

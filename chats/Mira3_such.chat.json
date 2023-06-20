@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Mirakel: import from GTasks option?"},{"role":"assistant","content":"No, there is no specific \"Mirakel: import from GTasks\" option available. Mirakel is an open-source task management application for Android, but it does not directly provide importing tasks from Google Tasks (GTasks). However, you may be able to export your tasks from GTasks in a compatible format (such as CSV or JSON), and then import them into Mirakel using its general import functionality."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Mirakel: import from GTasks option?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, there is no specific \"Mirakel: import from GTasks\" option available. Mirakel is an open-source task management application for Android, but it does not directly provide importing tasks from Google Tasks (GTasks). However, you may be able to export your tasks from GTasks in a compatible format (such as CSV or JSON), and then import them into Mirakel using its general import functionality."
+  }
+]

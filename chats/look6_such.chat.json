@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  look for things on eBay to repair and sell on?"},{"role":"assistant","content":"Yes, many people look for items on eBay to purchase, repair, and then resell for a profit. This practice is commonly known as \"flipping\" or \"reselling.\" It can be a popular and profitable way for individuals to make money, especially if they have the necessary skills and knowledge to repair and restore items. People often search for items with damaged parts, minor defects, or in need of a good cleaning before reselling them in better condition at a higher price."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  look for things on eBay to repair and sell on?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, many people look for items on eBay to purchase, repair, and then resell for a profit. This practice is commonly known as \"flipping\" or \"reselling.\" It can be a popular and profitable way for individuals to make money, especially if they have the necessary skills and knowledge to repair and restore items. People often search for items with damaged parts, minor defects, or in need of a good cleaning before reselling them in better condition at a higher price."
+  }
+]

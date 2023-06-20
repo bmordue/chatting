@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  \\\"train\\\" with something like MapSwipe?"},{"role":"assistant","content":"\"Train\" in the context of something like MapSwipe refers to the process of providing the machine learning algorithms used in MapSwipe with labeled examples to improve their accuracy and performance. This can involve categorizing and classifying data that is being processed by MapSwipe, identifying patterns, and teaching the algorithm how to make accurate predictions based on these patterns.\n\nThe training process usually requires human intervention, where individuals review and label data to create a labeled dataset. This dataset is then used to train the machine learning model, allowing it to learn from the labeled examples and make predictions on new, unseen data.\n\nOverall, training in the context of MapSwipe involves leveraging human expertise to improve the algorithm's ability to identify and classify features on maps accurately."}]
+[
+  {
+    "role": "user",
+    "content": "what is  \\\"train\\\" with something like MapSwipe?"
+  },
+  {
+    "role": "assistant",
+    "content": "\"Train\" in the context of something like MapSwipe refers to the process of providing the machine learning algorithms used in MapSwipe with labeled examples to improve their accuracy and performance. This can involve categorizing and classifying data that is being processed by MapSwipe, identifying patterns, and teaching the algorithm how to make accurate predictions based on these patterns.\n\nThe training process usually requires human intervention, where individuals review and label data to create a labeled dataset. This dataset is then used to train the machine learning model, allowing it to learn from the labeled examples and make predictions on new, unseen data.\n\nOverall, training in the context of MapSwipe involves leveraging human expertise to improve the algorithm's ability to identify and classify features on maps accurately."
+  }
+]

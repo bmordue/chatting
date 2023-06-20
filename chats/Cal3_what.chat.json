@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  Cal dav?"},{"role":"assistant","content":"CalDAV stands for Calendar Synchronization and Sharing Protocol. It is a network protocol that enables users to access and manage their calendars remotely. CalDAV allows users to sync their calendars across different devices and platforms, as well as share calendars with other users. This protocol is widely used in calendar applications and services to provide seamless calendar synchronization and collaboration functionalities."}]
+[
+  {
+    "role": "user",
+    "content": "what is  Cal dav?"
+  },
+  {
+    "role": "assistant",
+    "content": "CalDAV stands for Calendar Synchronization and Sharing Protocol. It is a network protocol that enables users to access and manage their calendars remotely. CalDAV allows users to sync their calendars across different devices and platforms, as well as share calendars with other users. This protocol is widely used in calendar applications and services to provide seamless calendar synchronization and collaboration functionalities."
+  }
+]

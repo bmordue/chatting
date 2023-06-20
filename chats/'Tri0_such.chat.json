@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  'Trigger' for vtodo/v event creation in android account?"},{"role":"assistant","content":"Yes, in Android, it is possible to create triggers or reminders for vTodo and vEvent objects in the calendar. The Android Calendar Provider API allows you to set alarms or reminders for these objects, which will be triggered based on the specified criteria such as a specific date and time. You can use the `CalendarContract.Reminders` content provider to add reminders for events or tasks. Additionally, you can also set recurring events or tasks with specific repeat rules using the `CalendarContract.Events` or `CalendarContract.Instances` tables."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  'Trigger' for vtodo/v event creation in android account?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, in Android, it is possible to create triggers or reminders for vTodo and vEvent objects in the calendar. The Android Calendar Provider API allows you to set alarms or reminders for these objects, which will be triggered based on the specified criteria such as a specific date and time. You can use the `CalendarContract.Reminders` content provider to add reminders for events or tasks. Additionally, you can also set recurring events or tasks with specific repeat rules using the `CalendarContract.Events` or `CalendarContract.Instances` tables."
+  }
+]

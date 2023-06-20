@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  3d-printed camera?"},{"role":"assistant","content":"Yes, there are 3D-printed cameras available today. These cameras are typically designed to be low-cost, customizable, and provide an opportunity for users to build their own camera. Many open-source designs and resources are available online, allowing individuals to create and 3D print their own cameras. These 3D-printed cameras often use standard camera components such as a lens, sensor, and shutter, while the camera body and casing are 3D printed."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  3d-printed camera?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are 3D-printed cameras available today. These cameras are typically designed to be low-cost, customizable, and provide an opportunity for users to build their own camera. Many open-source designs and resources are available online, allowing individuals to create and 3D print their own cameras. These 3D-printed cameras often use standard camera components such as a lens, sensor, and shutter, while the camera body and casing are 3D printed."
+  }
+]

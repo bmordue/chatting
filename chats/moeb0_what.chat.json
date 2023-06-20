@@ -1,1 +1,10 @@
-[{"role":"user","content":"what is  moebius scarf?"},{"role":"assistant","content":"A Möbius scarf, also known as a Möbius cowl or Möbius loop scarf, is a type of scarf or neckwear that is created using the concept of a Möbius strip. It is a one-sided, continuous loop where the ends are twisted before being attached to each other, resulting in a unique shape. This construction gives the scarf interesting properties, such as having no distinct \"front\" or \"back\" and only having one edge. Möbius scarves are often made from soft and warm materials like wool or knit fabric, making them a popular choice for cold weather. They can be worn in various ways, allowing for different looks and styles."}]
+[
+  {
+    "role": "user",
+    "content": "what is  moebius scarf?"
+  },
+  {
+    "role": "assistant",
+    "content": "A Möbius scarf, also known as a Möbius cowl or Möbius loop scarf, is a type of scarf or neckwear that is created using the concept of a Möbius strip. It is a one-sided, continuous loop where the ends are twisted before being attached to each other, resulting in a unique shape. This construction gives the scarf interesting properties, such as having no distinct \"front\" or \"back\" and only having one edge. Möbius scarves are often made from soft and warm materials like wool or knit fabric, making them a popular choice for cold weather. They can be worn in various ways, allowing for different looks and styles."
+  }
+]

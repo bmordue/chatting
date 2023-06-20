@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  Liquid template to grab first few results of Google images search?"},{"role":"assistant","content":"No, there is no direct way to use a Liquid template to fetch the first few results of a Google Images search. Liquid is a templating language used in systems like Shopify to customize the output of dynamic content. It does not have built-in functionality for sending requests or obtaining data from external sources like Google Images.\n\nTo achieve this, you would require programming knowledge and access to external APIs or libraries. A potential solution could involve using a programming language like Python to perform a Google Images search via the Google Search API or a web scraping library like BeautifulSoup. Once you have obtained the desired results, you can then pass them to your Liquid template for further customization and rendering."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  Liquid template to grab first few results of Google images search?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, there is no direct way to use a Liquid template to fetch the first few results of a Google Images search. Liquid is a templating language used in systems like Shopify to customize the output of dynamic content. It does not have built-in functionality for sending requests or obtaining data from external sources like Google Images.\n\nTo achieve this, you would require programming knowledge and access to external APIs or libraries. A potential solution could involve using a programming language like Python to perform a Google Images search via the Google Search API or a web scraping library like BeautifulSoup. Once you have obtained the desired results, you can then pass them to your Liquid template for further customization and rendering."
+  }
+]

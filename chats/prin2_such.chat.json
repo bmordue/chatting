@@ -1,1 +1,10 @@
-[{"role":"user","content":"is there such a thing as  printable HTTP cheatsheet?"},{"role":"assistant","content":"Yes, there are several resources available that provide printable HTTP cheatsheets. These cheatsheets typically include a concise summary of common HTTP methods, status codes, headers, and other relevant information. You can find printable HTTP cheatsheets by searching online or by visiting websites that specialize in providing programming or web development resources."}]
+[
+  {
+    "role": "user",
+    "content": "is there such a thing as  printable HTTP cheatsheet?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, there are several resources available that provide printable HTTP cheatsheets. These cheatsheets typically include a concise summary of common HTTP methods, status codes, headers, and other relevant information. You can find printable HTTP cheatsheets by searching online or by visiting websites that specialize in providing programming or web development resources."
+  }
+]
