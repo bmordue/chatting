@@ -14,12 +14,21 @@ async function main() {
 
   const paramsFile = argv[2];
   const params = JSON.parse(readFileSync(paramsFile, "utf-8"));
-  const response = await openai.createImage(params);
+  try {
+    const response = await openai.createImage(params);
 
-  const created = response.data.created;
-  response.data.data.forEach((d: ImagesResponseDataInner, i) => {
-    writeFileSync(`${created}-${i}.png`, Buffer.from(d.b64_json!, "base64"));
-  });
+    const created = response.data.created;
+    writeFileSync(`${created}.json`, JSON.stringify(response.data));
+    // if (response.data && typeof(response.data.data) === 'array') {
+    //   response.data.data.forEach((d: ImagesResponseDataInner, i) => {
+    //     writeFileSync(`${created}-${i}.png`, Buffer.from(d.b64_json!, "base64"));
+    //   });
+    // }
+
+  } catch (e) {
+    writeFileSync('error.json', JSON.stringify(e));
+    console.error("ruh roh!");
+  }
 }
 
 main();
