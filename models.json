@@ -20,6 +20,15 @@
       parent: null
     },
     {
+      id: 'text-davinci-003',
+      object: 'model',
+      created: 1669599635,
+      owned_by: 'openai-internal',
+      permission: [Array],
+      root: 'text-davinci-003',
+      parent: null
+    },
+    {
       id: 'davinci',
       object: 'model',
       created: 1649359874,
@@ -101,6 +110,33 @@
       parent: null
     },
     {
+      id: 'gpt-4-0613',
+      object: 'model',
+      created: 1686588896,
+      owned_by: 'openai',
+      permission: [Array],
+      root: 'gpt-4-0613',
+      parent: null
+    },
+    {
+      id: 'gpt-4-0314',
+      object: 'model',
+      created: 1687882410,
+      owned_by: 'openai',
+      permission: [Array],
+      root: 'gpt-4-0314',
+      parent: null
+    },
+    {
+      id: 'gpt-3.5-turbo-16k-0613',
+      object: 'model',
+      created: 1685474247,
+      owned_by: 'openai',
+      permission: [Array],
+      root: 'gpt-3.5-turbo-16k-0613',
+      parent: null
+    },
+    {
       id: 'code-search-babbage-text-001',
       object: 'model',
       created: 1651172507,
@@ -119,12 +155,21 @@
       parent: null
     },
     {
-      id: 'gpt-3.5-turbo-16k-0613',
+      id: 'gpt-3.5-turbo-0613',
       object: 'model',
-      created: 1685474247,
+      created: 1686587434,
       owned_by: 'openai',
       permission: [Array],
-      root: 'gpt-3.5-turbo-16k-0613',
+      root: 'gpt-3.5-turbo-0613',
+      parent: null
+    },
+    {
+      id: 'gpt-3.5-turbo-16k',
+      object: 'model',
+      created: 1683758102,
+      owned_by: 'openai-internal',
+      permission: [Array],
+      root: 'gpt-3.5-turbo-16k',
       parent: null
     },
     {
@@ -188,6 +233,15 @@
       owned_by: 'openai-dev',
       permission: [Array],
       root: 'ada-similarity',
+      parent: null
+    },
+    {
+      id: 'gpt-3.5-turbo',
+      object: 'model',
+      created: 1677610602,
+      owned_by: 'openai',
+      permission: [Array],
+      root: 'gpt-3.5-turbo',
       parent: null
     },
     {
@@ -335,15 +389,6 @@
       parent: null
     },
     {
-      id: 'gpt-3.5-turbo-0613',
-      object: 'model',
-      created: 1686587434,
-      owned_by: 'openai',
-      permission: [Array],
-      root: 'gpt-3.5-turbo-0613',
-      parent: null
-    },
-    {
       id: 'curie-search-document',
       object: 'model',
       created: 1651172508,
@@ -389,15 +434,6 @@
       parent: null
     },
     {
-      id: 'text-embedding-ada-002',
-      object: 'model',
-      created: 1671217299,
-      owned_by: 'openai-internal',
-      permission: [Array],
-      root: 'text-embedding-ada-002',
-      parent: null
-    },
-    {
       id: 'text-search-babbage-query-001',
       object: 'model',
       created: 1651172509,
@@ -416,21 +452,21 @@
       parent: null
     },
     {
-      id: 'gpt-3.5-turbo',
-      object: 'model',
-      created: 1677610602,
-      owned_by: 'openai',
-      permission: [Array],
-      root: 'gpt-3.5-turbo',
-      parent: null
-    },
-    {
       id: 'curie',
       object: 'model',
       created: 1649359874,
       owned_by: 'openai',
       permission: [Array],
       root: 'curie',
+      parent: null
+    },
+    {
+      id: 'text-embedding-ada-002',
+      object: 'model',
+      created: 1671217299,
+      owned_by: 'openai-internal',
+      permission: [Array],
+      root: 'text-embedding-ada-002',
       parent: null
     },
     {
@@ -452,15 +488,6 @@
       parent: null
     },
     {
-      id: 'text-davinci-003',
-      object: 'model',
-      created: 1669599635,
-      owned_by: 'openai-internal',
-      permission: [Array],
-      root: 'text-davinci-003',
-      parent: null
-    },
-    {
       id: 'davinci-similarity',
       object: 'model',
       created: 1651172509,
@@ -470,12 +497,12 @@
       parent: null
     },
     {
-      id: 'gpt-3.5-turbo-16k',
+      id: 'gpt-4',
       object: 'model',
-      created: 1683758102,
-      owned_by: 'openai-internal',
+      created: 1687882411,
+      owned_by: 'openai',
       permission: [Array],
-      root: 'gpt-3.5-turbo-16k',
+      root: 'gpt-4',
       parent: null
     }
   ]
