@@ -1,0 +1,49 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Define the financial projections
+startup_costs = 28000
+rental_rate = 20  # Default rental rate
+utilization = 0.6
+operational_hours = 8
+
+equipment_rental_fees = rental_rate * utilization * operational_hours
+
+customization_fee = 50
+average_projects_per_month = 20
+
+sales_price = 30
+average_products_sold_per_month = 50
+
+rent = 12000
+utilities = 3600
+inventory_costs = 2000
+equipment_maintenance = 1000
+staff_salaries = 60000
+marketing_expenses = 4000
+miscellaneous_expenses = 2000
+
+total_expenses = rent + utilities + inventory_costs + equipment_maintenance + staff_salaries + marketing_expenses + miscellaneous_expenses
+
+year_1_revenue = equipment_rental_fees + customization_fee * average_projects_per_month * 12 + sales_price * average_products_sold_per_month * 12
+year_1_profit = year_1_revenue - total_expenses
+
+def calculate_profitability(rental_rate):
+    equipment_rental_fees = rental_rate * utilization * operational_hours
+    year_1_revenue = equipment_rental_fees + customization_fee * average_projects_per_month * 12 + sales_price * average_products_sold_per_month * 12
+    year_1_profit = year_1_revenue - total_expenses
+    return year_1_profit
+
+default_profit = calculate_profitability(rental_rate)
+print("Default Year 1 Profit:", default_profit)
+
+rental_rates = np.arange(10, 31, 1)
+profits = [calculate_profitability(rate) for rate in rental_rates]
+
+plt.plot(rental_rates, profits)
+plt.xlabel('Rental Rate (£)')
+plt.ylabel('Year 1 Profit (£)')
+plt.title('Effect of Rental Rate on Profitability')
+plt.grid(True)
+plt.show()
+
