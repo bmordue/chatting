@@ -110,15 +110,6 @@
       parent: null
     },
     {
-      id: 'gpt-4-0613',
-      object: 'model',
-      created: 1686588896,
-      owned_by: 'openai',
-      permission: [Array],
-      root: 'gpt-4-0613',
-      parent: null
-    },
-    {
       id: 'gpt-4-0314',
       object: 'model',
       created: 1687882410,
@@ -155,12 +146,12 @@
       parent: null
     },
     {
-      id: 'gpt-3.5-turbo-0613',
+      id: 'gpt-3.5-turbo-0301',
       object: 'model',
-      created: 1686587434,
+      created: 1677649963,
       owned_by: 'openai',
       permission: [Array],
-      root: 'gpt-3.5-turbo-0613',
+      root: 'gpt-3.5-turbo-0301',
       parent: null
     },
     {
@@ -170,6 +161,15 @@
       owned_by: 'openai-internal',
       permission: [Array],
       root: 'gpt-3.5-turbo-16k',
+      parent: null
+    },
+    {
+      id: 'gpt-4',
+      object: 'model',
+      created: 1687882411,
+      owned_by: 'openai',
+      permission: [Array],
+      root: 'gpt-4',
       parent: null
     },
     {
@@ -209,15 +209,6 @@
       parent: null
     },
     {
-      id: 'gpt-3.5-turbo-0301',
-      object: 'model',
-      created: 1677649963,
-      owned_by: 'openai',
-      permission: [Array],
-      root: 'gpt-3.5-turbo-0301',
-      parent: null
-    },
-    {
       id: 'ada-code-search-code',
       object: 'model',
       created: 1651172505,
@@ -233,15 +224,6 @@
       owned_by: 'openai-dev',
       permission: [Array],
       root: 'ada-similarity',
-      parent: null
-    },
-    {
-      id: 'gpt-3.5-turbo',
-      object: 'model',
-      created: 1677610602,
-      owned_by: 'openai',
-      permission: [Array],
-      root: 'gpt-3.5-turbo',
       parent: null
     },
     {
@@ -341,6 +323,15 @@
       owned_by: 'openai-dev',
       permission: [Array],
       root: 'curie-search-query',
+      parent: null
+    },
+    {
+      id: 'text-embedding-ada-002',
+      object: 'model',
+      created: 1671217299,
+      owned_by: 'openai-internal',
+      permission: [Array],
+      root: 'text-embedding-ada-002',
       parent: null
     },
     {
@@ -461,12 +452,12 @@
       parent: null
     },
     {
-      id: 'text-embedding-ada-002',
+      id: 'gpt-3.5-turbo',
       object: 'model',
-      created: 1671217299,
-      owned_by: 'openai-internal',
+      created: 1677610602,
+      owned_by: 'openai',
       permission: [Array],
-      root: 'text-embedding-ada-002',
+      root: 'gpt-3.5-turbo',
       parent: null
     },
     {
@@ -497,12 +488,21 @@
       parent: null
     },
     {
-      id: 'gpt-4',
+      id: 'gpt-3.5-turbo-0613',
       object: 'model',
-      created: 1687882411,
+      created: 1686587434,
       owned_by: 'openai',
       permission: [Array],
-      root: 'gpt-4',
+      root: 'gpt-3.5-turbo-0613',
+      parent: null
+    },
+    {
+      id: 'gpt-4-0613',
+      object: 'model',
+      created: 1686588896,
+      owned_by: 'openai',
+      permission: [Array],
+      root: 'gpt-4-0613',
       parent: null
     }
   ]

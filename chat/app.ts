@@ -58,7 +58,7 @@ async function main() {
         const choices = completion.data.choices;
 
         messagesArray.push(completion.data.choices[0].message!);
-        writeFileSync(join(chatDir, file), JSON.stringify(messagesArray));
+        writeFileSync(join(chatDir, file), JSON.stringify(messagesArray, null, 2));
         if (completion.data.choices.length > 1) {
           console.log("unusual: several completion choices provided!");
         }
