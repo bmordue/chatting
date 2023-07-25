@@ -46,7 +46,7 @@ async function main() {
         return;
       }
 
-      if (messagesArray[messagesArray.length - 1].role !== 'user') {
+      if (messagesArray[messagesArray.length - 1].role === 'assistant') {
         console.log(`ignoring ${file}: no new prompt`);
         return;
       }
