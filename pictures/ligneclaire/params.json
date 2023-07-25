@@ -1,0 +1,6 @@
+{
+  "prompt": "A simplified ink drawing of clouds in ligne claire style",
+  "n": 10,
+  "size": "256x256",
+  "response_format": "b64_json"
+}
