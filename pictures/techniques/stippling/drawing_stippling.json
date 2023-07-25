@@ -1,0 +1,6 @@
+{
+  "prompt": "A simplified black and white drawing of clouds using Stippling.",
+  "n": 5,
+  "size": "256x256",
+  "response_format": "b64_json"
+}

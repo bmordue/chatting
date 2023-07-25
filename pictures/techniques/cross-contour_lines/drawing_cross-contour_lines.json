@@ -1,0 +1,6 @@
+{
+  "prompt": "A simplified black and white drawing of clouds using Cross-Contour Lines.",
+  "n": 5,
+  "size": "256x256",
+  "response_format": "b64_json"
+}
