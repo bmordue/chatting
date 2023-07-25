@@ -2,15 +2,6 @@
   object: 'list',
   data: [
     {
-      id: 'whisper-1',
-      object: 'model',
-      created: 1677532384,
-      owned_by: 'openai-internal',
-      permission: [Array],
-      root: 'whisper-1',
-      parent: null
-    },
-    {
       id: 'babbage',
       object: 'model',
       created: 1649358449,
@@ -200,6 +191,15 @@
       parent: null
     },
     {
+      id: 'text-davinci-002',
+      object: 'model',
+      created: 1649880484,
+      owned_by: 'openai',
+      permission: [Array],
+      root: 'text-davinci-002',
+      parent: null
+    },
+    {
       id: 'curie-instruct-beta',
       object: 'model',
       created: 1649364042,
@@ -326,15 +326,6 @@
       parent: null
     },
     {
-      id: 'text-embedding-ada-002',
-      object: 'model',
-      created: 1671217299,
-      owned_by: 'openai-internal',
-      permission: [Array],
-      root: 'text-embedding-ada-002',
-      parent: null
-    },
-    {
       id: 'davinci-search-query',
       object: 'model',
       created: 1651172505,
@@ -377,6 +368,15 @@
       owned_by: 'openai-dev',
       permission: [Array],
       root: 'text-search-babbage-doc-001',
+      parent: null
+    },
+    {
+      id: 'whisper-1',
+      object: 'model',
+      created: 1677532384,
+      owned_by: 'openai-internal',
+      permission: [Array],
+      root: 'whisper-1',
       parent: null
     },
     {
@@ -443,21 +443,21 @@
       parent: null
     },
     {
+      id: 'text-embedding-ada-002',
+      object: 'model',
+      created: 1671217299,
+      owned_by: 'openai-internal',
+      permission: [Array],
+      root: 'text-embedding-ada-002',
+      parent: null
+    },
+    {
       id: 'curie',
       object: 'model',
       created: 1649359874,
       owned_by: 'openai',
       permission: [Array],
       root: 'curie',
-      parent: null
-    },
-    {
-      id: 'gpt-3.5-turbo',
-      object: 'model',
-      created: 1677610602,
-      owned_by: 'openai',
-      permission: [Array],
-      root: 'gpt-3.5-turbo',
       parent: null
     },
     {
@@ -470,12 +470,12 @@
       parent: null
     },
     {
-      id: 'text-davinci-002',
+      id: 'gpt-3.5-turbo-0613',
       object: 'model',
-      created: 1649880484,
+      created: 1686587434,
       owned_by: 'openai',
       permission: [Array],
-      root: 'text-davinci-002',
+      root: 'gpt-3.5-turbo-0613',
       parent: null
     },
     {
@@ -488,12 +488,12 @@
       parent: null
     },
     {
-      id: 'gpt-3.5-turbo-0613',
+      id: 'gpt-3.5-turbo',
       object: 'model',
-      created: 1686587434,
+      created: 1677610602,
       owned_by: 'openai',
       permission: [Array],
-      root: 'gpt-3.5-turbo-0613',
+      root: 'gpt-3.5-turbo',
       parent: null
     },
     {
