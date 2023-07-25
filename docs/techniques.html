@@ -28,7 +28,10 @@
     async function fetchImagePaths() {
       const response = await fetch('images.json'); // Replace 'images.json' with the path to the JSON file containing image paths
       const data = await response.json();
-      return data.imagePaths;
+//      return data.imagePaths;
+      return [
+"techniques/parallel_lines/drawing_parallel_lines-1.png"
+];
     }
 
     // Function to create and append image elements to the gallery
