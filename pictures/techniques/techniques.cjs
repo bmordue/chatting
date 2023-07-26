@@ -31,14 +31,14 @@ const subject = "a grandfather clock";
 
 
 techniques.forEach((technique) => {
-  const techniqueDirectory = technique.toLowerCase().replace(/ /g, '_') + '.2';
+  const techniqueDirectory = technique.toLowerCase().replace(/ /g, '_') + '.3';
 
   if (!fs.existsSync(techniqueDirectory)) {
     fs.mkdirSync(techniqueDirectory);
   }
 
   const jsonData = {
-    prompt: `A simplified ink black and white drawing of ${subject} using ${technique} to represent tones and textures and a limited color palette.`,
+    prompt: `A simplified ink drawing of ${subject} using ${technique} to represent tones and textures and a limited color palette.`,
     n: 5,
     size: "256x256",
     response_format: "b64_json",
