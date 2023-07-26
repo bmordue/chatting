@@ -1,0 +1,6 @@
+{
+  "prompt": "A simplified ink drawing of a grandfather clock using tintin drawing style to represent tones and textures and a limited color palette.",
+  "n": 5,
+  "size": "256x256",
+  "response_format": "b64_json"
+}
