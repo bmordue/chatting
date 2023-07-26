@@ -21,21 +21,24 @@ const techniques = [
   "Overlapping Lines",
   "Circular Strokes",
   "Wavy Lines",
-  "Grids"
+  "Grids",
+  "ligne claire style",
+  "herge drawing style",
+  "tintin drawing style"
 ];
 
-const subject = "clouds";
+const subject = "a grandfather clock";
 
 
 techniques.forEach((technique) => {
-  const techniqueDirectory = technique.toLowerCase().replace(/ /g, '_');
+  const techniqueDirectory = technique.toLowerCase().replace(/ /g, '_') + '.2';
 
   if (!fs.existsSync(techniqueDirectory)) {
     fs.mkdirSync(techniqueDirectory);
   }
 
   const jsonData = {
-    prompt: `A simplified black and white drawing of ${subject} using ${technique} to represent tones and textures.`,
+    prompt: `A simplified ink black and white drawing of ${subject} using ${technique} to represent tones and textures and a limited color palette.`,
     n: 5,
     size: "256x256",
     response_format: "b64_json",
