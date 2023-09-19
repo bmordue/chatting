@@ -24,6 +24,18 @@ function suggestChanges(todoComment, context) {
     if (todoComment.includes('complex') && context.includes('function')) {
         return 'Consider breaking down this function into smaller, more manageable functions.';
     }
+    // If the TODO comment mentions refactoring, suggest to refactor the code
+    else if (todoComment.includes('refactor')) {
+        return 'Consider refactoring this code to improve its readability and maintainability.';
+    }
+    // If the TODO comment mentions performance, suggest to optimize the code
+    else if (todoComment.includes('performance')) {
+        return 'Consider optimizing this code to improve its performance.';
+    }
+    // If the TODO comment mentions testing, suggest to add tests
+    else if (todoComment.includes('test')) {
+        return 'Consider adding tests for this code to ensure its correctness.';
+    }
     return 'No suggestion available.';
 }
 
