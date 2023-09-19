@@ -1,0 +1,35 @@
+// Import necessary modules
+import { Request, Response } from 'express';
+import { TodoService } from '../services/todo.service';
+
+export class TodoController {
+  private todoService: TodoService;
+
+  constructor() {
+    this.todoService = new TodoService();
+  }
+
+  // Method to get all TODOs
+  public getAllTodos = async (req: Request, res: Response): Promise<Response> => {
+    const todos = await this.todoService.getAllTodos();
+    return res.status(200).json({ todos });
+  }
+
+  // Method to create a new TODO
+  public createTodo = async (req: Request, res: Response): Promise<Response> => {
+    const todo = await this.todoService.createTodo(req.body);
+    return res.status(201).json({ todo });
+  }
+
+  // Method to update a TODO
+  public updateTodo = async (req: Request, res: Response): Promise<Response> => {
+    const todo = await this.todoService.updateTodo(req.params.id, req.body);
+    return res.status(200).json({ todo });
+  }
+
+  // Method to delete a TODO
+  public deleteTodo = async (req: Request, res: Response): Promise<Response> => {
+    await this.todoService.deleteTodo(req.params.id);
+    return res.status(204).json({});
+  }
+}
