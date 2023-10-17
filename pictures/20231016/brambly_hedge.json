@@ -1,0 +1,6 @@
+{
+  "prompt": "(cutaway diagram) (architectural drawing) (highly detailed ink drawing) (colourful ink drawing) (tree stump with tiny mouse brewery inside) (jill barklem brambly hedge) (richard scarry)",
+  "n": 5,
+  "size": "256x256",
+  "response_format": "b64_json"
+}
