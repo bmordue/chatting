@@ -1,18 +1,9 @@
 import { config } from "dotenv";
-import { readFileSync, readdir, writeFileSync } from "fs";
-import { join } from "path";
+import { readFileSync, writeFileSync } from "fs";
+import OpenAi from "openai";
 config();
 
-import {
-  ChatCompletionResponseMessage,
-  Configuration,
-  OpenAIApi,
-} from "openai";
-const configuration = new Configuration({
-  apiKey: process.env.OPENAI_API_KEY,
-});
-
-const openai = new OpenAIApi(configuration);
+const openai = new OpenAi();
 
 // "rebuild" an existing chat history by sending each user prompt and adding system responses to the context
 async function main() {
@@ -21,20 +12,21 @@ async function main() {
   const outPath = filePath.replace('chat.json', 'chat.2.json'); // TODO: brittle!
 
   console.log(`rebuilding chat completions for ${filePath}`);
-  const messagesArray: ChatCompletionResponseMessage[] = JSON.parse(readFileSync(filePath, "utf-8"));
+  const messagesArray = JSON.parse(readFileSync(filePath, "utf-8"));
 
   if (!messagesArray[messagesArray.length - 1]) {
     console.log(`ignoring ${filePath}: not a chat message array`);
     return;
   }
 
-  const newMessages: ChatCompletionResponseMessage[] = [];
+  const newMessages = [];
 
   try {
     for (let prompt of messagesArray.filter(m => m.role === "user")) {
       newMessages.push(prompt);
-      openai.createChatCompletion({ model: "gpt-3.5-turbo-0613", messages: newMessages }).then(completion => {
-        newMessages.push(completion.data.choices[0].message!);
+      const p: OpenAi.CompletionCreateParamsNonStreaming = { model: "gpt-3.5-turbo-0613", prompt: newMessages };
+      openai.completions.create(p).then(completion => {
+        newMessages.push(completion.choices[0].text!);
       });
     }
 
