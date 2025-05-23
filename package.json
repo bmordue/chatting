@@ -10,8 +10,8 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.5.0",
     "node-fetch": "^3.3.2",
-    "openai": "^4.19.1"
+    "openai": "^4.103.0"
   }
 }
