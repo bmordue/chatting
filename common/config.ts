@@ -39,4 +39,14 @@ function validateConfig(): AppConfig {
   return appConfig;
 }
 
-export const appConfig = validateConfig();
+let _appConfig: AppConfig | null = null;
+
+export function getConfig(): AppConfig {
+  if (!_appConfig) {
+    _appConfig = validateConfig();
+  }
+  return _appConfig;
+}
+
+// For backward compatibility, but only if OPENAI_API_KEY exists
+export const appConfig = process.env.OPENAI_API_KEY ? validateConfig() : null;

@@ -1,10 +1,11 @@
 import { readFileSync, readdir, writeFileSync } from "fs";
 import { join } from "path";
 import OpenAI from "openai";
-import { appConfig } from "../common/config.js";
+import { getConfig } from "../common/config.js";
 
+const config = getConfig();
 const openai = new OpenAI({
-  apiKey: appConfig.openai.apiKey,
+  apiKey: config.openai.apiKey,
 });
 
 
@@ -12,7 +13,7 @@ async function main() {
 
   writeFileSync("models.json", JSON.stringify(openai.models, null, 4));
 
-  const chatDir = appConfig.chatDir;
+  const chatDir = config.chatDir;
 
   // list the files in chatDir
 

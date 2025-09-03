@@ -3,3 +3,5 @@ built/
 .env
 .vscode/
 error.json
+coverage/
+*.log

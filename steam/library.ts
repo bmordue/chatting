@@ -1,15 +1,17 @@
 import fetch from 'node-fetch';
-import { appConfig } from '../common/config.js';
+import { getConfig } from '../common/config.js';
 import { SteamLibraryResponse } from './models.js';
 
+const config = getConfig();
+
 // Check if Steam configuration is available
-if (!appConfig.steam) {
+if (!config.steam) {
   console.error('Please provide STEAM_API_KEY and STEAM_USER_ID in the .env file.');
   process.exit(1);
 }
 
-const STEAM_API_KEY = appConfig.steam.apiKey;
-const STEAM_USER_ID = appConfig.steam.userId;
+const STEAM_API_KEY = config.steam.apiKey;
+const STEAM_USER_ID = config.steam.userId;
 
 
 // Get wishlist and library data

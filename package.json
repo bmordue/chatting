@@ -4,7 +4,8 @@
     "build": "tsc",
     "start": "node built/chat/app.js",
     "lint": "eslint . --ext .ts",
-    "lint:fix": "eslint . --ext .ts --fix"
+    "lint:fix": "eslint . --ext .ts --fix",
+    "test": "npm run build && node tests/config.test.js"
   },
   "type": "module",
   "devDependencies": {

@@ -2,10 +2,11 @@ import { readFileSync, writeFileSync } from "fs";
 import { basename, dirname, join } from "path";
 import OpenAi from "openai";
 import { argv } from "process";
-import { appConfig } from "../common/config.js";
+import { getConfig } from "../common/config.js";
 
+const config = getConfig();
 const openai = new OpenAi({
-  apiKey: appConfig.openai.apiKey,
+  apiKey: config.openai.apiKey,
 });
 
 async function main() {
