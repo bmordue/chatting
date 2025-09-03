@@ -1,12 +1,12 @@
-import { config } from "dotenv";
 import { readFileSync, writeFileSync } from "fs";
 import { basename, dirname, join } from "path";
-config();
-
 import OpenAi from "openai";
 import { argv } from "process";
+import { appConfig } from "../common/config.js";
 
-const openai = new OpenAi();
+const openai = new OpenAi({
+  apiKey: appConfig.openai.apiKey,
+});
 
 async function main() {
 
@@ -18,7 +18,7 @@ async function main() {
   try {
     const response = await openai.images.generate(params);
 
-    const created = response.created; // can use this to make filenames unique
+    // const created = response.created; // can use this to make filenames unique
 
     // writeFileSync(`${created}.json`, JSON.stringify(response.data)); // beware, image URLs expire in 60mins!
     response.data.forEach((d, i) => {

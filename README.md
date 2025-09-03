@@ -1,55 +1,132 @@
-# chat
+# Chatting - OpenAI API Utilities
 
-Barebones API wrapper for reading a prompt from JSON and writing back the assitant response into the same JSON file, to build up a conversation with context.
+A collection of TypeScript utilities for working with OpenAI APIs including chat completions, image generation, and data analysis.
 
-Put a prompt in the 'content' property of a message with role: user, then run `npm start` (or `node built/chat/app.js`). Reload JSON, repeat...
+## Architecture Overview
 
-The file `chats/messages.json` can be used as a template.
+This project consists of four main modules:
 
-The script will make a request to OpenAI API for each JSON file in the `chats/` dir where the latest message in the array is a user prompt.
+- **`chat/`** - Chat completion utilities for building conversations with context
+- **`demographics/`** - Population simulation and demographic modeling
+- **`pictures/`** - DALL-E image generation utilities
+- **`steam/`** - Steam API integration for game library analysis
+- **`common/`** - Shared configuration and utilities
 
-# demographics
+## Setup
 
-Used the `chat/app.ts` template to write a really bad demographics model. The file `messages.json` is the full conversation (user prompts and assistant responses).
+### Prerequisites
+- Node.js (18+ recommended)
+- npm
 
-Serve barchart.html and demographics.json on localhost, eg by running `python -m http.server` in the project directory.
+### Installation
 
-Then go to http://localhost:8000/barchart.html
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-## TODO
+3. Create a `.env` file with your API keys:
+   ```
+   OPENAI_API_KEY=your_openai_api_key_here
+   STEAM_API_KEY=your_steam_api_key_here  # Optional, for Steam features
+   STEAM_USER_ID=your_steam_user_id_here  # Optional, for Steam features
+   ```
 
-- provide a way to "scroll through" annual data year by year.
-- run multiple sims and compare outcomes
-- apply scenarios, eg changing fertility rate, death rates etc
-- model number of people requiring elder, # providing, length of time to train new practitioners, training capacity, cost to grow training capacity etc.
+4. Build the project:
+   ```bash
+   npm run build
+   ```
 
-# pictures
+## Usage
 
-Playing with dall-e for text to image instead of LLM chat models.
+### Chat Module
 
-Example usage.
+Processes JSON conversation files in the `chats/` directory. The script looks for files where the latest message is from a user and generates assistant responses.
 
-Start a new dir to keep things "tidy":
+```bash
+npm start
+```
 
-`mkdir 20230522-02`
+Example conversation file (`chats/example.json`):
+```json
+[
+  {
+    "role": "user", 
+    "content": "Hello, how are you?"
+  }
+]
+```
 
-Create prompt parameters in `20230522-02/createImage.params.json`, eg:
+### Demographics Module
 
+Runs population simulations with configurable cohorts and demographics.
+
+```bash
+node built/demographics/sim.js
+```
+
+View results at: `http://localhost:8000/demographics/barchart.html` (requires local server)
+
+### Pictures Module
+
+Generate images using DALL-E from parameter files.
+
+```bash
+node built/pictures/pictures.js path/to/params.json
+```
+
+Example params file:
 ```json
 {
-  "prompt": "A flying cat with wings, in the style of a childrens book illustrator. Bright colours, simple shapes, acrylic",
-  "n": 10,
-  "size": "256x256",
-  "response_format": "b64_json"
+  "prompt": "A flying cat with wings, in the style of a childrens book illustrator",
+  "n": 1,
+  "size": "256x256"
 }
 ```
 
-Run the script:
+### Steam Module
 
-`node built/pictures/pictures.js 20230522-02/createImage.params.json`
+Analyze Steam library and wishlist data.
 
-PNGs created at project root, move them to "tidy" dir. :-)
+```bash
+node built/steam/library.js
+```
 
-## TODO
-- write some HTML for prompt + image results, and serve that up -- each time the script gets run, collection of prompts/results grows.
+## Development
+
+### Available Scripts
+
+- `npm run build` - Compile TypeScript to JavaScript
+- `npm run lint` - Run ESLint on TypeScript files  
+- `npm run lint:fix` - Auto-fix linting issues where possible
+- `npm start` - Build and run the chat application
+
+### Code Quality
+
+This project uses:
+- TypeScript for type safety
+- ESLint for code quality and consistency
+- Centralized configuration management
+- Proper async/await patterns for better error handling
+
+### Contributing
+
+1. Follow the existing code style
+2. Run linting before committing: `npm run lint`
+3. Ensure all modules build successfully: `npm run build`
+4. Update documentation for any new features
+
+## File Structure
+
+```
+├── chat/           # Chat completion utilities
+├── demographics/   # Population modeling
+├── pictures/       # Image generation
+├── steam/          # Steam API integration  
+├── common/         # Shared configuration
+├── chats/          # Conversation JSON files
+├── docs/           # Documentation and HTML files
+└── built/          # Compiled JavaScript output
+```
 

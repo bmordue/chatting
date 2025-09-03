@@ -1,17 +1,15 @@
 import fetch from 'node-fetch';
-import * as dotenv from 'dotenv';
-import { SteamLibraryResponse, SteamUserResponse, SteamWishlistResponse } from './models.js';
+import { appConfig } from '../common/config.js';
+import { SteamLibraryResponse } from './models.js';
 
-dotenv.config(); // Load environment variables from .env file
-
-const STEAM_API_KEY = process.env.STEAM_API_KEY || '';
-const STEAM_USER_ID = process.env.STEAM_USER_ID || '';
-
-// Check if environment variables are provided
-if (!STEAM_API_KEY || !STEAM_USER_ID) {
+// Check if Steam configuration is available
+if (!appConfig.steam) {
   console.error('Please provide STEAM_API_KEY and STEAM_USER_ID in the .env file.');
   process.exit(1);
 }
+
+const STEAM_API_KEY = appConfig.steam.apiKey;
+const STEAM_USER_ID = appConfig.steam.userId;
 
 
 // Get wishlist and library data
@@ -45,12 +43,12 @@ const getWishlistAndLibraryData = async () => {
 
     // Check if each game in the wishlist is in the library
     for (const appId in []) {//wishlistData) {
-      const game = wishlistData[appId];
-      const isInLibrary = libraryData.some((libraryGame: any) => libraryGame.appid === parseInt(appId));
+      // const game = wishlistData[appId];
+      const isInLibrary = libraryData.some((libraryGame) => libraryGame.appid === parseInt(appId));
 
       if (isInLibrary) {
         gamesInLibrary.push({
-          name: game.name,
+          name: wishlistData[appId].name,
           appId: parseInt(appId),
         });
       }
@@ -62,17 +60,17 @@ const getWishlistAndLibraryData = async () => {
     const gamesWithDemos = [];
 
     // Check if a demo is available for each game in the wishlist
-    for (const appId in []) { //wishlistData) {
-      const game = wishlistData[appId];
-      // const hasDemo = game.demos && game.demos.length > 0;
+    // for (const appId in wishlistData) {
+    //   const game = wishlistData[appId];
+    //   const hasDemo = game.demos && game.demos.length > 0;
 
-      // if (hasDemo) {
-      //   gamesWithDemos.push({
-      //     name: game.name,
-      //     appId: parseInt(appId),
-      //   });
-      // }
-    }
+    //   if (hasDemo) {
+    //     gamesWithDemos.push({
+    //       name: game.name,
+    //       appId: parseInt(appId),
+    //     });
+    //   }
+    // }
     console.log('Games in wishlist with demos:', gamesWithDemos);
 
 

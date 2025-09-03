@@ -2,11 +2,18 @@
   "scripts": {
     "prestart": "tsc",
     "build": "tsc",
-    "start": "node built/chat/app.js"
+    "start": "node built/chat/app.js",
+    "lint": "eslint . --ext .ts",
+    "lint:fix": "eslint . --ext .ts --fix"
   },
   "type": "module",
   "devDependencies": {
+    "@eslint/js": "^9.34.0",
     "@types/node": "^20.1.0",
+    "@typescript-eslint/eslint-plugin": "^8.42.0",
+    "@typescript-eslint/parser": "^8.42.0",
+    "eslint": "^9.34.0",
+    "globals": "^16.3.0",
     "typescript": "^5.2.2"
   },
   "dependencies": {
