@@ -1,55 +1,123 @@
-# chat
+# Chatting
 
-Barebones API wrapper for reading a prompt from JSON and writing back the assitant response into the same JSON file, to build up a conversation with context.
+A TypeScript-based experimental project for working with AI APIs, featuring conversational AI, demographic simulations, and image generation capabilities.
 
-Put a prompt in the 'content' property of a message with role: user, then run `npm start` (or `node built/chat/app.js`). Reload JSON, repeat...
+## Overview
 
-The file `chats/messages.json` can be used as a template.
+This project provides a collection of tools for experimenting with OpenAI's APIs:
 
-The script will make a request to OpenAI API for each JSON file in the `chats/` dir where the latest message in the array is a user prompt.
+- **Chat Module**: A conversational AI system that maintains context across multiple chat sessions using JSON file storage
+- **Demographics Module**: A population simulation model with data visualization capabilities
+- **Pictures Module**: A DALL-E integration for generating images from text prompts
 
-# demographics
+## Tech Stack
 
-Used the `chat/app.ts` template to write a really bad demographics model. The file `messages.json` is the full conversation (user prompts and assistant responses).
+- **Runtime**: Node.js with TypeScript
+- **AI Integration**: OpenAI API (GPT models and DALL-E)
+- **Data Storage**: JSON files for conversation history and simulation data
+- **Visualization**: HTML/JavaScript for demographic data charts
+- **Dependencies**: dotenv, openai, node-fetch
 
-Serve barchart.html and demographics.json on localhost, eg by running `python -m http.server` in the project directory.
+## Requirements
 
-Then go to http://localhost:8000/barchart.html
+- Node.js (version 16 or higher)
+- OpenAI API key
+- TypeScript compiler
 
-## TODO
+## Installation
 
-- provide a way to "scroll through" annual data year by year.
-- run multiple sims and compare outcomes
-- apply scenarios, eg changing fertility rate, death rates etc
-- model number of people requiring elder, # providing, length of time to train new practitioners, training capacity, cost to grow training capacity etc.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/bmordue/chatting.git
+   cd chatting
+   ```
 
-# pictures
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-Playing with dall-e for text to image instead of LLM chat models.
+3. Set up your OpenAI API key:
+   Create a `.env` file in the root directory:
+   ```
+   OPENAI_API_KEY=your_api_key_here
+   ```
 
-Example usage.
+4. Build the project:
+   ```bash
+   npm run build
+   ```
 
-Start a new dir to keep things "tidy":
+## Usage
 
-`mkdir 20230522-02`
+### Chat Module
 
-Create prompt parameters in `20230522-02/createImage.params.json`, eg:
+The chat module enables conversational AI with persistent context stored in JSON files.
 
-```json
-{
-  "prompt": "A flying cat with wings, in the style of a childrens book illustrator. Bright colours, simple shapes, acrylic",
-  "n": 10,
-  "size": "256x256",
-  "response_format": "b64_json"
-}
+1. Use `chats/messages.json` as a template for creating new conversations
+2. Add your prompt as a message with `role: "user"` in the JSON file
+3. Run the chat processor:
+   ```bash
+   npm start
+   ```
+
+The system will process all JSON files in the `chats/` directory where the latest message is a user prompt, generating AI responses and updating the files with the conversation history.
+
+### Demographics Module
+
+A population simulation model that generates demographic data and visualizations.
+
+1. Run the simulation:
+   ```bash
+   node built/demographics/sim.js
+   ```
+
+2. Start a local server to view results:
+   ```bash
+   python -m http.server
+   ```
+
+3. Open your browser to: `http://localhost:8000/barchart.html`
+
+### Pictures Module
+
+Generate images using DALL-E with customizable parameters.
+
+1. Create a parameters file (e.g., `image-params.json`):
+   ```json
+   {
+     "prompt": "A serene landscape with mountains and a lake",
+     "n": 1,
+     "size": "256x256",
+     "response_format": "b64_json"
+   }
+   ```
+
+2. Generate images:
+   ```bash
+   node built/pictures/pictures.js image-params.json
+   ```
+
+Generated images will be saved as PNG files in the same directory as your parameters file.
+
+## Project Structure
+
+```
+chatting/
+├── chat/           # Conversational AI module
+├── chats/          # JSON conversation files
+├── demographics/   # Population simulation module
+├── pictures/       # Image generation module
+├── docs/           # Documentation files
+├── package.json    # Project dependencies and scripts
+└── tsconfig.json   # TypeScript configuration
 ```
 
-Run the script:
+## Contributing
 
-`node built/pictures/pictures.js 20230522-02/createImage.params.json`
+This is an experimental project for learning and exploring AI APIs. Feel free to fork and experiment with your own modifications.
 
-PNGs created at project root, move them to "tidy" dir. :-)
+## License
 
-## TODO
-- write some HTML for prompt + image results, and serve that up -- each time the script gets run, collection of prompts/results grows.
+This project is provided as-is for educational and experimental purposes.
 
