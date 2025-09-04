@@ -16,9 +16,9 @@ export interface AppConfig {
 
 function validateConfig(): AppConfig {
   const openaiApiKey = process.env.OPENAI_API_KEY;
-  
+
   if (!openaiApiKey) {
-    throw new Error('OPENAI_API_KEY environment variable is required');
+    throw new Error("OPENAI_API_KEY environment variable is required");
   }
 
   const appConfig: AppConfig = {

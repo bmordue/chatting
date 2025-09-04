@@ -49,7 +49,7 @@ async function main() {
         console.log(`continuing the conversation in ${file}`);
         // read the file and parse it as JSON to get an array of ChatCompletionResponseMessage
         
-        const completion = await openai.chat.completions.create({ 
+        const completion = await openai.chat.completions.create({
           model: "gpt-3.5-turbo", 
           messages: messagesArray 
         });
@@ -64,7 +64,7 @@ async function main() {
       }
     }
   } catch (err) {
-    console.error('Error reading chat directory:', err);
+    console.error("Error reading chat directory:", err);
     process.exit(1);
   }
 }
