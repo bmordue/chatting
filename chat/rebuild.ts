@@ -22,7 +22,7 @@ async function main() {
   const newMessages = [];
 
   try {
-    for (let prompt of messagesArray.filter(m => m.role === "user")) {
+    for (const prompt of messagesArray.filter(m => m.role === "user")) {
       newMessages.push(prompt);
       const p: OpenAi.CompletionCreateParamsNonStreaming = { model: "gpt-3.5-turbo-0613", prompt: newMessages };
       openai.completions.create(p).then(completion => {
@@ -32,7 +32,7 @@ async function main() {
 
     writeFileSync(outPath, JSON.stringify(newMessages));
   } catch (e) {
-    console.error(`${filePath}: failed to complete chat`);
+    console.error(`${filePath}: failed to complete chat`, e);
   }
 }
 

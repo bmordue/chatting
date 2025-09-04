@@ -45,7 +45,7 @@ interface WishlistAndLibraryData {
     library: SteamLibraryResponse;
 }
 
-export {
+export type {
     SteamUserResponse,
     SteamPlayer,
     SteamLibraryResponse,

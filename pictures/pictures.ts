@@ -1,12 +1,13 @@
-import { config } from "dotenv";
 import { readFileSync, writeFileSync } from "fs";
 import { basename, dirname, join } from "path";
-config();
-
 import OpenAi from "openai";
 import { argv } from "process";
+import { getConfig } from "../common/config.js";
 
-const openai = new OpenAi();
+const config = getConfig();
+const openai = new OpenAi({
+  apiKey: config.openai.apiKey,
+});
 
 async function main() {
 
