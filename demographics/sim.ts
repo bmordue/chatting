@@ -33,7 +33,7 @@ const cohorts: Cohort[] = [
 ];
 
 // Calculate the total population
-// const totalPopulation = cohorts.reduce((acc, cohort) => acc + cohort.size, 0);
+const totalPopulation = cohorts.reduce((acc, cohort) => acc + cohort.size, 0);
 
 /*This updated implementation defines the `Cohort` interface to include the lower and upper age bounds and the size of the cohort. It then defines the age ranges and population sizes for each of the groups you provided and stores them in an array for easy iteration.
 

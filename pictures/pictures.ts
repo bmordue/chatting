@@ -19,7 +19,7 @@ async function main() {
   try {
     const response = await openai.images.generate(params);
 
-    // const created = response.created; // can use this to make filenames unique
+    const created = response.created; // can use this to make filenames unique
 
     // writeFileSync(`${created}.json`, JSON.stringify(response.data)); // beware, image URLs expire in 60mins!
     response.data.forEach((d, i) => {
