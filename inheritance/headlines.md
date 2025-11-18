@@ -1,0 +1,72 @@
+# Debate: Building Inter-Generational Wealth Through Inheritance is Inherently Immoral
+
+## Arguments FOR the Proposition (Inheritance is Immoral)
+
+- Perpetuates economic inequality across generations, creating dynasties of wealth and poverty
+- Violates meritocracy principles by giving advantages based on birth rather than effort or ability
+- Concentrates power and resources in fewer hands over time, threatening democratic values
+- Creates an unearned advantage that undermines equal opportunity for all citizens
+- Enables wealth accumulation without contribution to society or productive work
+- Rewards accident of birth rather than personal achievement or social contribution
+- Exacerbates class divisions and social stratification over multiple generations
+- Reduces social mobility by creating insurmountable barriers for those born without wealth
+- Allows wealthy families to manipulate systems (education, law, politics) to their advantage
+- Contradicts principles of individual responsibility and self-reliance
+- Creates entitled attitudes among inheritors who didn't earn their privilege
+- Enables tax avoidance through complex estate planning that benefits only the wealthy
+- Perpetuates historical injustices by maintaining wealth gained through exploitation or discrimination
+- Reduces incentive for wealthy individuals to contribute productively to society
+- Creates economic inefficiency by allocating capital based on bloodline rather than competence
+- Undermines capitalist ideals of competition and market-based distribution of resources
+- Allows accumulation of rent-seeking behavior across generations without adding value
+- Creates political corruption as wealthy dynasties use inherited resources to influence governance
+- Violates egalitarian principles that all humans deserve equal starting conditions
+- Enables hoarding of resources that could better serve broader societal needs
+- Creates psychological harm for both inheritors (unearned guilt/entitlement) and non-inheritors (resentment)
+- Perpetuates gender and racial wealth gaps inherited from discriminatory historical practices
+- Reduces charitable giving as wealth is preserved within families rather than redistributed
+- Creates economic instability by concentrating risk in fewer wealthy families
+- Undermines social cohesion by creating separate classes with vastly different life experiences
+- Enables wealthy families to avoid consequences of poor decision-making through generational cushions
+- Contradicts the concept that property rights should be tied to living individuals, not perpetual claims
+- Creates artificial scarcity in assets like land and housing by locking them in family dynasties
+- Reduces economic dynamism by preventing turnover of capital to more innovative uses
+- Violates principles of equal human dignity by stratifying worth based on family lineage
+
+## Arguments AGAINST the Proposition (Inheritance is Not Immoral)
+
+- Respects fundamental property rights and individual freedom to dispose of assets as desired
+- Strengthens family bonds and enables parents to provide for children's wellbeing
+- Rewards hard work and prudent saving by allowing fruits of labor to benefit loved ones
+- Enables long-term thinking and investment that benefits society across generations
+- Provides economic security and stability for vulnerable family members
+- Respects personal autonomy and freedom of testamentary disposition
+- Creates incentives for wealth creation that ultimately benefits society through jobs and innovation
+- Supports cultural transmission of values, businesses, and family legacies
+- Enables stewardship of resources like land, art, and businesses across generations
+- Reflects natural human desire to care for offspring and ensure their flourishing
+- Allows continuity of family enterprises that create employment and economic value
+- Respects diversity of family structures and cultural traditions around wealth transfer
+- Provides social insurance by reducing dependence on government welfare systems
+- Enables accumulation of capital necessary for major investments and economic growth
+- Recognizes that wealth creation benefits society through taxes, employment, and innovation
+- Protects against government overreach into private family matters
+- Allows preservation of cultural heritage, family estates, and historical properties
+- Creates philanthropic dynasties that fund public goods across generations
+- Enables expertise and knowledge transfer in family businesses and professions
+- Respects individual sacrifice and delayed gratification of wealth creators
+- Provides stability during economic transitions and family crises
+- Allows parents to fulfill natural obligation to provide for children's education and opportunity
+- Supports entrepreneurship by providing capital and safety nets for business ventures
+- Enables preservation of agricultural lands and sustainable family farming practices
+- Protects minority communities' ability to build and preserve wealth across generations
+- Creates positive incentives for education, career success, and financial responsibility
+- Allows families to maintain cherished properties, heirlooms, and cultural artifacts
+- Respects the fundamental human right to give gifts and support loved ones
+- Enables social mobility by allowing families to lift themselves from poverty over generations
+- Provides economic buffer during recessions and individual hardships
+- Allows accumulation of specialized knowledge and expertise within family lines
+- Supports innovation by providing patient capital not subject to short-term market pressures
+- Enables preservation of artistic and intellectual legacies across generations
+- Respects cultural and religious traditions around family, property, and obligation
+- Provides motivation for personal achievement and financial success throughout life
